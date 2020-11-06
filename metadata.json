@@ -1,0 +1,4256 @@
+{
+    "candidates": {
+        "US1036": {
+            "candidateID": "US1036",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "1036"
+        },
+        "US8639": {
+            "candidateID": "US8639",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "8639",
+            "incumbent": true
+        },
+        "US67957": {
+            "candidateID": "US67957",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "67957"
+        },
+        "US32916": {
+            "candidateID": "US32916",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "32916"
+        },
+        "US64542": {
+            "candidateID": "US64542",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "64542"
+        },
+        "US69343": {
+            "candidateID": "US69343",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "69343"
+        },
+        "US7623": {
+            "candidateID": "US7623",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "7623"
+        },
+        "US66288": {
+            "candidateID": "US66288",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "66288"
+        },
+        "US69341": {
+            "candidateID": "US69341",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "PEC",
+            "polID": "69341",
+            "polNum": "69341"
+        },
+        "US66553": {
+            "candidateID": "US66553",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "66553"
+        },
+        "US100013": {
+            "candidateID": "US100013",
+            "fullName": "None of these candidates",
+            "first": null,
+            "last": "None of these candidates",
+            "party": "NPD",
+            "polID": "100013",
+            "polNum": "100013"
+        },
+        "US65352": {
+            "candidateID": "US65352",
+            "fullName": "Alyson Kennedy",
+            "first": "Alyson",
+            "last": "Kennedy",
+            "party": "SWP",
+            "polID": "65352",
+            "polNum": "65352"
+        },
+        "US59790": {
+            "candidateID": "US59790",
+            "fullName": "Bill Hammons",
+            "first": "Bill",
+            "last": "Hammons",
+            "party": "Uty",
+            "polID": "59790",
+            "polNum": "59790"
+        },
+        "US69342": {
+            "candidateID": "US69342",
+            "fullName": "Jade Simmons",
+            "first": "Jade",
+            "last": "Simmons",
+            "party": "Oth",
+            "polID": "69342",
+            "polNum": "69342"
+        },
+        "US67959": {
+            "candidateID": "US67959",
+            "fullName": "Dario Hunter",
+            "first": "Dario",
+            "last": "Hunter",
+            "party": "Prg",
+            "polID": "67959",
+            "polNum": "67959"
+        },
+        "US67945": {
+            "candidateID": "US67945",
+            "fullName": "Phil Collins",
+            "first": "Phil",
+            "last": "Collins",
+            "party": "Ind",
+            "polID": "67945",
+            "polNum": "67945"
+        },
+        "US66954": {
+            "candidateID": "US66954",
+            "fullName": "Jerome Segal",
+            "first": "Jerome",
+            "last": "Segal",
+            "party": "BdR",
+            "polID": "66954",
+            "polNum": "66954"
+        },
+        "US24660": {
+            "candidateID": "US24660",
+            "fullName": "Joe McHugh",
+            "first": "Joe",
+            "last": "McHugh",
+            "party": "Una",
+            "polID": "24660",
+            "polNum": "24660"
+        },
+        "US69447": {
+            "candidateID": "US69447",
+            "fullName": "Mark Charles",
+            "first": "Mark",
+            "last": "Charles",
+            "party": "Una",
+            "polID": "69447",
+            "polNum": "69447"
+        },
+        "US62537": {
+            "candidateID": "US62537",
+            "fullName": "Sheila Tittle",
+            "first": "Sheila",
+            "last": "Tittle",
+            "party": "CST",
+            "polID": "62537",
+            "polNum": "62537"
+        },
+        "US26932": {
+            "candidateID": "US26932",
+            "fullName": "Jesse Ventura",
+            "first": "Jesse",
+            "last": "Ventura",
+            "party": "Grn",
+            "polID": "26932",
+            "polNum": "26932"
+        },
+        "US660": {
+            "candidateID": "US660",
+            "fullName": "C.L. Gammon",
+            "first": "C.L.",
+            "last": "Gammon",
+            "party": "Ind",
+            "polID": "660",
+            "polNum": "660"
+        },
+        "US64469": {
+            "candidateID": "US64469",
+            "fullName": "J.R. Myers",
+            "first": "J.R.",
+            "last": "Myers",
+            "party": "Oth",
+            "polID": "64469",
+            "polNum": "64469"
+        },
+        "US62482": {
+            "candidateID": "US62482",
+            "fullName": "H. Brooke Paige",
+            "first": "H. Brooke",
+            "last": "Paige",
+            "party": "Ind",
+            "polID": "62482",
+            "polNum": "62482"
+        },
+        "US67940": {
+            "candidateID": "US67940",
+            "fullName": "President Boddie",
+            "first": "President",
+            "last": "Boddie",
+            "party": "Oth",
+            "polID": "67940",
+            "polNum": "67940"
+        },
+        "US69460": {
+            "candidateID": "US69460",
+            "fullName": "Christopher LaFontaine",
+            "first": "Christopher",
+            "last": "LaFontaine",
+            "party": "Ind",
+            "polID": "69460",
+            "polNum": "69460"
+        },
+        "US14237": {
+            "candidateID": "US14237",
+            "fullName": "Kyle Kopitke",
+            "first": "Kyle",
+            "last": "Kopitke",
+            "party": "IAP",
+            "polID": "14237",
+            "polNum": "14237"
+        },
+        "US62535": {
+            "candidateID": "US62535",
+            "fullName": "Tom Hoefling",
+            "first": "Tom",
+            "last": "Hoefling",
+            "party": "Oth",
+            "polID": "62535",
+            "polNum": "62535"
+        },
+        "US69444": {
+            "candidateID": "US69444",
+            "fullName": "Ricki King",
+            "first": "Ricki",
+            "last": "King",
+            "party": "Oth",
+            "polID": "69444",
+            "polNum": "69444"
+        },
+        "US69448": {
+            "candidateID": "US69448",
+            "fullName": "Princess Jacob-Fambro",
+            "first": "Princess",
+            "last": "Jacob-Fambro",
+            "party": "Una",
+            "polID": "69448",
+            "polNum": "69448"
+        },
+        "US69443": {
+            "candidateID": "US69443",
+            "fullName": "Blake Huber",
+            "first": "Blake",
+            "last": "Huber",
+            "party": "AVP",
+            "polID": "69443",
+            "polNum": "69443"
+        },
+        "US56224": {
+            "candidateID": "US56224",
+            "fullName": "Richard Duncan",
+            "first": "Richard",
+            "last": "Duncan",
+            "party": "Ind",
+            "polID": "56224",
+            "polNum": "56224"
+        },
+        "US69442": {
+            "candidateID": "US69442",
+            "fullName": "Joseph Kishore",
+            "first": "Joseph",
+            "last": "Kishore",
+            "party": "SEP",
+            "polID": "69442",
+            "polNum": "69442"
+        },
+        "US69449": {
+            "candidateID": "US69449",
+            "fullName": "Jordan Scott",
+            "first": "Jordan",
+            "last": "Scott",
+            "party": "Una",
+            "polID": "69449",
+            "polNum": "69449"
+        },
+        "US744": {
+            "candidateID": "US744",
+            "fullName": "Gary Swing",
+            "first": "Gary",
+            "last": "Swing",
+            "party": "Oth",
+            "polID": "744",
+            "polNum": "744"
+        },
+        "US69461": {
+            "candidateID": "US69461",
+            "fullName": "Keith McCormic",
+            "first": "Keith",
+            "last": "McCormic",
+            "party": "Oth",
+            "polID": "69461",
+            "polNum": "69461"
+        },
+        "US69462": {
+            "candidateID": "US69462",
+            "fullName": "Zachary Scalf",
+            "first": "Zachary",
+            "last": "Scalf",
+            "party": "Ind",
+            "polID": "69462",
+            "polNum": "69462"
+        },
+        "AK6638": {
+            "candidateID": "AK6638",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "4320",
+            "incumbent": true
+        },
+        "AK7073": {
+            "candidateID": "AK7073",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "4441"
+        },
+        "AK7074": {
+            "candidateID": "AK7074",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "4508"
+        },
+        "AK7083": {
+            "candidateID": "AK7083",
+            "fullName": "Jesse Ventura",
+            "first": "Jesse",
+            "last": "Ventura",
+            "party": "Grn",
+            "polID": "26932",
+            "polNum": "4512"
+        },
+        "AK7078": {
+            "candidateID": "AK7078",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "PEC",
+            "polID": "69341",
+            "polNum": "4511"
+        },
+        "AK7076": {
+            "candidateID": "AK7076",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "4510"
+        },
+        "AK7077": {
+            "candidateID": "AK7077",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "4324"
+        },
+        "AL5063": {
+            "candidateID": "AL5063",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "3474",
+            "incumbent": true
+        },
+        "AL5755": {
+            "candidateID": "AL5755",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "3768"
+        },
+        "AL5849": {
+            "candidateID": "AL5849",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "3815"
+        },
+        "AR12686": {
+            "candidateID": "AR12686",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "8440",
+            "incumbent": true
+        },
+        "AR13356": {
+            "candidateID": "AR13356",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "8705"
+        },
+        "AR13753": {
+            "candidateID": "AR13753",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "8883"
+        },
+        "AR13758": {
+            "candidateID": "AR13758",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "8887"
+        },
+        "AR13754": {
+            "candidateID": "AR13754",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "8884"
+        },
+        "AR13769": {
+            "candidateID": "AR13769",
+            "fullName": "Phil Collins",
+            "first": "Phil",
+            "last": "Collins",
+            "party": "Ind",
+            "polID": "67945",
+            "polNum": "8893"
+        },
+        "AR13757": {
+            "candidateID": "AR13757",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "8886"
+        },
+        "AR13751": {
+            "candidateID": "AR13751",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "8881"
+        },
+        "AR13750": {
+            "candidateID": "AR13750",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "8880"
+        },
+        "AR13756": {
+            "candidateID": "AR13756",
+            "fullName": "C.L. Gammon",
+            "first": "C.L.",
+            "last": "Gammon",
+            "party": "Ind",
+            "polID": "660",
+            "polNum": "8885"
+        },
+        "AR13759": {
+            "candidateID": "AR13759",
+            "fullName": "J.R. Myers",
+            "first": "J.R.",
+            "last": "Myers",
+            "party": "Oth",
+            "polID": "64469",
+            "polNum": "8888"
+        },
+        "AR13752": {
+            "candidateID": "AR13752",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "8882"
+        },
+        "AR13755": {
+            "candidateID": "AR13755",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "Ind",
+            "polID": "64542",
+            "polNum": "8451"
+        },
+        "AZ10391": {
+            "candidateID": "AZ10391",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "6119"
+        },
+        "AZ9677": {
+            "candidateID": "AZ9677",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "5851",
+            "incumbent": true
+        },
+        "AZ10407": {
+            "candidateID": "AZ10407",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "6223"
+        },
+        "CA22519": {
+            "candidateID": "CA22519",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "13303"
+        },
+        "CA21873": {
+            "candidateID": "CA21873",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "12827",
+            "incumbent": true
+        },
+        "CA22526": {
+            "candidateID": "CA22526",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "13510"
+        },
+        "CA22518": {
+            "candidateID": "CA22518",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "13495"
+        },
+        "CA22525": {
+            "candidateID": "CA22525",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "AIP",
+            "polID": "64542",
+            "polNum": "12548"
+        },
+        "CA22287": {
+            "candidateID": "CA22287",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PFP",
+            "polID": "7623",
+            "polNum": "11624"
+        },
+        "CO13659": {
+            "candidateID": "CO13659",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "9425"
+        },
+        "CO13676": {
+            "candidateID": "CO13676",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "9180",
+            "incumbent": true
+        },
+        "CO13669": {
+            "candidateID": "CO13669",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "9578"
+        },
+        "CO13660": {
+            "candidateID": "CO13660",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "9575"
+        },
+        "CO13670": {
+            "candidateID": "CO13670",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Una",
+            "polID": "69343",
+            "polNum": "9583"
+        },
+        "CO13697": {
+            "candidateID": "CO13697",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "AmC",
+            "polID": "66288",
+            "polNum": "9571"
+        },
+        "CO13661": {
+            "candidateID": "CO13661",
+            "fullName": "Bill Hammons",
+            "first": "Bill",
+            "last": "Hammons",
+            "party": "Uty",
+            "polID": "59790",
+            "polNum": "8986"
+        },
+        "CO13677": {
+            "candidateID": "CO13677",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "9572"
+        },
+        "CO13664": {
+            "candidateID": "CO13664",
+            "fullName": "Mark Charles",
+            "first": "Mark",
+            "last": "Charles",
+            "party": "Una",
+            "polID": "69447",
+            "polNum": "9573"
+        },
+        "CO13672": {
+            "candidateID": "CO13672",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "8383"
+        },
+        "CO13666": {
+            "candidateID": "CO13666",
+            "fullName": "Kyle Kopitke",
+            "first": "Kyle",
+            "last": "Kopitke",
+            "party": "IAP",
+            "polID": "14237",
+            "polNum": "9201"
+        },
+        "CO13671": {
+            "candidateID": "CO13671",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "9200"
+        },
+        "CO13662": {
+            "candidateID": "CO13662",
+            "fullName": "Joe McHugh",
+            "first": "Joe",
+            "last": "McHugh",
+            "party": "Una",
+            "polID": "24660",
+            "polNum": "9580"
+        },
+        "CO13667": {
+            "candidateID": "CO13667",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Una",
+            "polID": "69341",
+            "polNum": "9581"
+        },
+        "CO13674": {
+            "candidateID": "CO13674",
+            "fullName": "Phil Collins",
+            "first": "Phil",
+            "last": "Collins",
+            "party": "Pro",
+            "polID": "67945",
+            "polNum": "9574"
+        },
+        "CO13663": {
+            "candidateID": "CO13663",
+            "fullName": "Princess Jacob-Fambro",
+            "first": "Princess",
+            "last": "Jacob-Fambro",
+            "party": "Una",
+            "polID": "69448",
+            "polNum": "9577"
+        },
+        "CO13668": {
+            "candidateID": "CO13668",
+            "fullName": "Dario Hunter",
+            "first": "Dario",
+            "last": "Hunter",
+            "party": "Prg",
+            "polID": "67959",
+            "polNum": "9576"
+        },
+        "CO13675": {
+            "candidateID": "CO13675",
+            "fullName": "Blake Huber",
+            "first": "Blake",
+            "last": "Huber",
+            "party": "AVP",
+            "polID": "69443",
+            "polNum": "9375"
+        },
+        "CO13665": {
+            "candidateID": "CO13665",
+            "fullName": "Alyson Kennedy",
+            "first": "Alyson",
+            "last": "Kennedy",
+            "party": "SWP",
+            "polID": "65352",
+            "polNum": "9193"
+        },
+        "CO13678": {
+            "candidateID": "CO13678",
+            "fullName": "Joseph Kishore",
+            "first": "Joseph",
+            "last": "Kishore",
+            "party": "SEP",
+            "polID": "69442",
+            "polNum": "9579"
+        },
+        "CO13673": {
+            "candidateID": "CO13673",
+            "fullName": "Jordan Scott",
+            "first": "Jordan",
+            "last": "Scott",
+            "party": "Una",
+            "polID": "69449",
+            "polNum": "9582"
+        },
+        "CT21813": {
+            "candidateID": "CT21813",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "14743"
+        },
+        "CT21816": {
+            "candidateID": "CT21816",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "14283",
+            "incumbent": true
+        },
+        "CT22046": {
+            "candidateID": "CT22046",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "14898"
+        },
+        "CT22047": {
+            "candidateID": "CT22047",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "14899"
+        },
+        "DC10358": {
+            "candidateID": "DC10358",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "9874"
+        },
+        "DC10361": {
+            "candidateID": "DC10361",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "9802",
+            "incumbent": true
+        },
+        "DC10435": {
+            "candidateID": "DC10435",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "9930"
+        },
+        "DC10382": {
+            "candidateID": "DC10382",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "DCG",
+            "polID": "32916",
+            "polNum": "9900"
+        },
+        "DC10383": {
+            "candidateID": "DC10383",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "Ind",
+            "polID": "7623",
+            "polNum": "9901"
+        },
+        "DC10384": {
+            "candidateID": "DC10384",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "9902"
+        },
+        "DE10797": {
+            "candidateID": "DE10797",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "8609"
+        },
+        "DE10612": {
+            "candidateID": "DE10612",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "8961",
+            "incumbent": true
+        },
+        "DE10799": {
+            "candidateID": "DE10799",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "9103"
+        },
+        "DE10800": {
+            "candidateID": "DE10800",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "9104"
+        },
+        "FL21369": {
+            "candidateID": "FL21369",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "14574",
+            "incumbent": true
+        },
+        "FL22906": {
+            "candidateID": "FL22906",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "15350"
+        },
+        "FL22908": {
+            "candidateID": "FL22908",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "15642"
+        },
+        "FL22909": {
+            "candidateID": "FL22909",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "15643"
+        },
+        "FL22907": {
+            "candidateID": "FL22907",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "RP",
+            "polID": "64542",
+            "polNum": "15367"
+        },
+        "FL22910": {
+            "candidateID": "FL22910",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "15644"
+        },
+        "FL22921": {
+            "candidateID": "FL22921",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "15652"
+        },
+        "GA21510": {
+            "candidateID": "GA21510",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "15657"
+        },
+        "GA20740": {
+            "candidateID": "GA20740",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "15134",
+            "incumbent": true
+        },
+        "GA22207": {
+            "candidateID": "GA22207",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "15950"
+        },
+        "HI19883": {
+            "candidateID": "HI19883",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "15324"
+        },
+        "HI19882": {
+            "candidateID": "HI19882",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "15057",
+            "incumbent": true
+        },
+        "HI19891": {
+            "candidateID": "HI19891",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "15329"
+        },
+        "HI19892": {
+            "candidateID": "HI19892",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "15328"
+        },
+        "HI19897": {
+            "candidateID": "HI19897",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "SHP",
+            "polID": "69341",
+            "polNum": "15332"
+        },
+        "HI19898": {
+            "candidateID": "HI19898",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "15331"
+        },
+        "IA22627": {
+            "candidateID": "IA22627",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "18873",
+            "incumbent": true
+        },
+        "IA23547": {
+            "candidateID": "IA23547",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "19210"
+        },
+        "IA23549": {
+            "candidateID": "IA23549",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "19351"
+        },
+        "IA23551": {
+            "candidateID": "IA23551",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "NPD",
+            "polID": "69343",
+            "polNum": "19353"
+        },
+        "IA23546": {
+            "candidateID": "IA23546",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "19350"
+        },
+        "IA23545": {
+            "candidateID": "IA23545",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "19348"
+        },
+        "IA23552": {
+            "candidateID": "IA23552",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "18983"
+        },
+        "IA23550": {
+            "candidateID": "IA23550",
+            "fullName": "Ricki King",
+            "first": "Ricki",
+            "last": "King",
+            "party": "Oth",
+            "polID": "69444",
+            "polNum": "19349"
+        },
+        "IA23548": {
+            "candidateID": "IA23548",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "NPD",
+            "polID": "69341",
+            "polNum": "19352"
+        },
+        "ID18718": {
+            "candidateID": "ID18718",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "16227",
+            "incumbent": true
+        },
+        "ID19379": {
+            "candidateID": "ID19379",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "16374"
+        },
+        "ID19397": {
+            "candidateID": "ID19397",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "16494"
+        },
+        "ID19401": {
+            "candidateID": "ID19401",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "16496"
+        },
+        "ID19400": {
+            "candidateID": "ID19400",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "16497"
+        },
+        "ID19399": {
+            "candidateID": "ID19399",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "16495"
+        },
+        "ID19398": {
+            "candidateID": "ID19398",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "Ind",
+            "polID": "64542",
+            "polNum": "16123"
+        },
+        "IL28469": {
+            "candidateID": "IL28469",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "22670"
+        },
+        "IL28467": {
+            "candidateID": "IL28467",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "21724",
+            "incumbent": true
+        },
+        "IL28854": {
+            "candidateID": "IL28854",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "22937"
+        },
+        "IL28851": {
+            "candidateID": "IL28851",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "22934"
+        },
+        "IL28852": {
+            "candidateID": "IL28852",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "22936"
+        },
+        "IL28853": {
+            "candidateID": "IL28853",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "22935"
+        },
+        "IN21368": {
+            "candidateID": "IN21368",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "18077",
+            "incumbent": true
+        },
+        "IN22147": {
+            "candidateID": "IN22147",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "18436"
+        },
+        "IN22392": {
+            "candidateID": "IN22392",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "18610"
+        },
+        "KS6603": {
+            "candidateID": "KS6603",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "20070",
+            "incumbent": true
+        },
+        "KS7454": {
+            "candidateID": "KS7454",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "20615"
+        },
+        "KS7460": {
+            "candidateID": "KS7460",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "20617"
+        },
+        "KY5609": {
+            "candidateID": "KY5609",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "20403",
+            "incumbent": true
+        },
+        "KY6175": {
+            "candidateID": "KY6175",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "20647"
+        },
+        "KY6368": {
+            "candidateID": "KY6368",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "20778"
+        },
+        "KY6375": {
+            "candidateID": "KY6375",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "20780"
+        },
+        "KY6370": {
+            "candidateID": "KY6370",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "20779"
+        },
+        "LA25078": {
+            "candidateID": "LA25078",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "21862",
+            "incumbent": true
+        },
+        "LA25061": {
+            "candidateID": "LA25061",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "22237"
+        },
+        "LA25090": {
+            "candidateID": "LA25090",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "22261"
+        },
+        "LA25094": {
+            "candidateID": "LA25094",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Oth",
+            "polID": "69343",
+            "polNum": "22262"
+        },
+        "LA25085": {
+            "candidateID": "LA25085",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "22256"
+        },
+        "LA25086": {
+            "candidateID": "LA25086",
+            "fullName": "Jade Simmons",
+            "first": "Jade",
+            "last": "Simmons",
+            "party": "Oth",
+            "polID": "69342",
+            "polNum": "22257"
+        },
+        "LA25087": {
+            "candidateID": "LA25087",
+            "fullName": "President Boddie",
+            "first": "President",
+            "last": "Boddie",
+            "party": "Oth",
+            "polID": "67940",
+            "polNum": "22258"
+        },
+        "LA25092": {
+            "candidateID": "LA25092",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "21916"
+        },
+        "LA25088": {
+            "candidateID": "LA25088",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "22259"
+        },
+        "LA25089": {
+            "candidateID": "LA25089",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Oth",
+            "polID": "69341",
+            "polNum": "22260"
+        },
+        "LA25091": {
+            "candidateID": "LA25091",
+            "fullName": "Tom Hoefling",
+            "first": "Tom",
+            "last": "Hoefling",
+            "party": "Oth",
+            "polID": "62535",
+            "polNum": "21919"
+        },
+        "LA25095": {
+            "candidateID": "LA25095",
+            "fullName": "Bill Hammons",
+            "first": "Bill",
+            "last": "Hammons",
+            "party": "Uty",
+            "polID": "59790",
+            "polNum": "22263"
+        },
+        "LA25093": {
+            "candidateID": "LA25093",
+            "fullName": "Alyson Kennedy",
+            "first": "Alyson",
+            "last": "Kennedy",
+            "party": "SWP",
+            "polID": "65352",
+            "polNum": "21870"
+        },
+        "MA35087": {
+            "candidateID": "MA35087",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "28002"
+        },
+        "MA35088": {
+            "candidateID": "MA35088",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "27533",
+            "incumbent": true
+        },
+        "MA35105": {
+            "candidateID": "MA35105",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "28148"
+        },
+        "MA35104": {
+            "candidateID": "MA35104",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "28147"
+        },
+        "MD31626": {
+            "candidateID": "MD31626",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "26782"
+        },
+        "MD31633": {
+            "candidateID": "MD31633",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "26140",
+            "incumbent": true
+        },
+        "MD31827": {
+            "candidateID": "MD31827",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "26893"
+        },
+        "MD31816": {
+            "candidateID": "MD31816",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "26890"
+        },
+        "MD31817": {
+            "candidateID": "MD31817",
+            "fullName": "Jerome Segal",
+            "first": "Jerome",
+            "last": "Segal",
+            "party": "BdR",
+            "polID": "66954",
+            "polNum": "26891"
+        },
+        "ME30791": {
+            "candidateID": "ME30791",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "26024"
+        },
+        "ME29633": {
+            "candidateID": "ME29633",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "25718",
+            "incumbent": true
+        },
+        "ME30793": {
+            "candidateID": "ME30793",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "26224"
+        },
+        "ME30855": {
+            "candidateID": "ME30855",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "26246"
+        },
+        "ME30792": {
+            "candidateID": "ME30792",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "26037"
+        },
+        "MI37091": {
+            "candidateID": "MI37091",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "29798"
+        },
+        "MI35597": {
+            "candidateID": "MI35597",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "28998",
+            "incumbent": true
+        },
+        "MI37092": {
+            "candidateID": "MI37092",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "30076"
+        },
+        "MI37095": {
+            "candidateID": "MI37095",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "30077"
+        },
+        "MI37094": {
+            "candidateID": "MI37094",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "UST",
+            "polID": "66288",
+            "polNum": "30078"
+        },
+        "MI37093": {
+            "candidateID": "MI37093",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "NLP",
+            "polID": "64542",
+            "polNum": "29003"
+        },
+        "MN34605": {
+            "candidateID": "MN34605",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "29037"
+        },
+        "MN34606": {
+            "candidateID": "MN34606",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "28784",
+            "incumbent": true
+        },
+        "MN34611": {
+            "candidateID": "MN34611",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "29347"
+        },
+        "MN34618": {
+            "candidateID": "MN34618",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "29348"
+        },
+        "MN34616": {
+            "candidateID": "MN34616",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "29351"
+        },
+        "MN34615": {
+            "candidateID": "MN34615",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "29350"
+        },
+        "MN34619": {
+            "candidateID": "MN34619",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "28787"
+        },
+        "MN34614": {
+            "candidateID": "MN34614",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "29349"
+        },
+        "MN34613": {
+            "candidateID": "MN34613",
+            "fullName": "Alyson Kennedy",
+            "first": "Alyson",
+            "last": "Kennedy",
+            "party": "SWP",
+            "polID": "65352",
+            "polNum": "28785"
+        },
+        "MO9228": {
+            "candidateID": "MO9228",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "30797",
+            "incumbent": true
+        },
+        "MO10565": {
+            "candidateID": "MO10565",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "31416"
+        },
+        "MO10566": {
+            "candidateID": "MO10566",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "31662"
+        },
+        "MO10567": {
+            "candidateID": "MO10567",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "31436"
+        },
+        "MO10568": {
+            "candidateID": "MO10568",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "31663"
+        },
+        "MS31907": {
+            "candidateID": "MS31907",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "28365",
+            "incumbent": true
+        },
+        "MS32595": {
+            "candidateID": "MS32595",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "28652"
+        },
+        "MS32652": {
+            "candidateID": "MS32652",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "28681"
+        },
+        "MS32653": {
+            "candidateID": "MS32653",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "28679"
+        },
+        "MS32651": {
+            "candidateID": "MS32651",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "28682"
+        },
+        "MS32636": {
+            "candidateID": "MS32636",
+            "fullName": "Phil Collins",
+            "first": "Phil",
+            "last": "Collins",
+            "party": "Ind",
+            "polID": "67945",
+            "polNum": "28669"
+        },
+        "MS32650": {
+            "candidateID": "MS32650",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "AmC",
+            "polID": "66288",
+            "polNum": "28684"
+        },
+        "MS32649": {
+            "candidateID": "MS32649",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "28683"
+        },
+        "MS32654": {
+            "candidateID": "MS32654",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "28680"
+        },
+        "MT34536": {
+            "candidateID": "MT34536",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "30076",
+            "incumbent": true
+        },
+        "MT35547": {
+            "candidateID": "MT35547",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "29255"
+        },
+        "MT35838": {
+            "candidateID": "MT35838",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "30635"
+        },
+        "NC43783": {
+            "candidateID": "NC43783",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "37852",
+            "incumbent": true
+        },
+        "NC44621": {
+            "candidateID": "NC44621",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "38457"
+        },
+        "NC45326": {
+            "candidateID": "NC45326",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "38485"
+        },
+        "NC45208": {
+            "candidateID": "NC45208",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "38476"
+        },
+        "NC44834": {
+            "candidateID": "NC44834",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "38474"
+        },
+        "ND40669": {
+            "candidateID": "ND40669",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "36887",
+            "incumbent": true
+        },
+        "ND41107": {
+            "candidateID": "ND41107",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "37063"
+        },
+        "ND41115": {
+            "candidateID": "ND41115",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "37064"
+        },
+        "NE31489": {
+            "candidateID": "NE31489",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "29907",
+            "incumbent": true
+        },
+        "NE31822": {
+            "candidateID": "NE31822",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "30032"
+        },
+        "NE31863": {
+            "candidateID": "NE31863",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "30039"
+        },
+        "NH49452": {
+            "candidateID": "NH49452",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "40730"
+        },
+        "NH49453": {
+            "candidateID": "NH49453",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "39889",
+            "incumbent": true
+        },
+        "NH49451": {
+            "candidateID": "NH49451",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "41097"
+        },
+        "NJ39529": {
+            "candidateID": "NJ39529",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "35334"
+        },
+        "NJ39528": {
+            "candidateID": "NJ39528",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "34905",
+            "incumbent": true
+        },
+        "NJ39585": {
+            "candidateID": "NJ39585",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "35370"
+        },
+        "NJ39584": {
+            "candidateID": "NJ39584",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "35369"
+        },
+        "NJ39583": {
+            "candidateID": "NJ39583",
+            "fullName": "Bill Hammons",
+            "first": "Bill",
+            "last": "Hammons",
+            "party": "Uty",
+            "polID": "59790",
+            "polNum": "35368"
+        },
+        "NJ39582": {
+            "candidateID": "NJ39582",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "35367"
+        },
+        "NJ39586": {
+            "candidateID": "NJ39586",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "34953"
+        },
+        "NJ39581": {
+            "candidateID": "NJ39581",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "34954"
+        },
+        "NM38883": {
+            "candidateID": "NM38883",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "34850"
+        },
+        "NM38878": {
+            "candidateID": "NM38878",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "34675",
+            "incumbent": true
+        },
+        "NM38912": {
+            "candidateID": "NM38912",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "34881"
+        },
+        "NM39086": {
+            "candidateID": "NM39086",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "35021"
+        },
+        "NM39084": {
+            "candidateID": "NM39084",
+            "fullName": "Sheila Tittle",
+            "first": "Sheila",
+            "last": "Tittle",
+            "party": "CST",
+            "polID": "62537",
+            "polNum": "35020"
+        },
+        "NM39085": {
+            "candidateID": "NM39085",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "34756"
+        },
+        "NV37488": {
+            "candidateID": "NV37488",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "32991"
+        },
+        "NV37487": {
+            "candidateID": "NV37487",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "32509",
+            "incumbent": true
+        },
+        "NV37503": {
+            "candidateID": "NV37503",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "33134"
+        },
+        "NV37505": {
+            "candidateID": "NV37505",
+            "fullName": "None of these candidates",
+            "first": null,
+            "last": "None of these candidates",
+            "party": "NPD",
+            "polID": "100013",
+            "polNum": "31807"
+        },
+        "NV37504": {
+            "candidateID": "NV37504",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "IAP",
+            "polID": "66288",
+            "polNum": "33135"
+        },
+        "NY83621": {
+            "candidateID": "NY83621",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "54731"
+        },
+        "NY84296": {
+            "candidateID": "NY84296",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "53697",
+            "incumbent": true
+        },
+        "NY84346": {
+            "candidateID": "NY84346",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "55085"
+        },
+        "NY84345": {
+            "candidateID": "NY84345",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "49211"
+        },
+        "NY84347": {
+            "candidateID": "NY84347",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Inp",
+            "polID": "69341",
+            "polNum": "55086"
+        },
+        "OH45853": {
+            "candidateID": "OH45853",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "41678",
+            "incumbent": true
+        },
+        "OH46647": {
+            "candidateID": "OH46647",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "42203"
+        },
+        "OH46913": {
+            "candidateID": "OH46913",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "42409"
+        },
+        "OH46922": {
+            "candidateID": "OH46922",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Ind",
+            "polID": "32916",
+            "polNum": "42414"
+        },
+        "OK45322": {
+            "candidateID": "OK45322",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "40457",
+            "incumbent": true
+        },
+        "OK46413": {
+            "candidateID": "OK46413",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "41153"
+        },
+        "OK46427": {
+            "candidateID": "OK46427",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "41304"
+        },
+        "OK46415": {
+            "candidateID": "OK46415",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "41303"
+        },
+        "OK46416": {
+            "candidateID": "OK46416",
+            "fullName": "Jade Simmons",
+            "first": "Jade",
+            "last": "Simmons",
+            "party": "Ind",
+            "polID": "69342",
+            "polNum": "41302"
+        },
+        "OK46414": {
+            "candidateID": "OK46414",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "41301"
+        },
+        "OR5789": {
+            "candidateID": "OR5789",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "40067"
+        },
+        "OR5792": {
+            "candidateID": "OR5792",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "40810",
+            "incumbent": true
+        },
+        "OR6026": {
+            "candidateID": "OR6026",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "41235"
+        },
+        "OR6024": {
+            "candidateID": "OR6024",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "PAG",
+            "polID": "32916",
+            "polNum": "41233"
+        },
+        "OR6025": {
+            "candidateID": "OR6025",
+            "fullName": "Dario Hunter",
+            "first": "Dario",
+            "last": "Hunter",
+            "party": "Prg",
+            "polID": "67959",
+            "polNum": "41234"
+        },
+        "PA52480": {
+            "candidateID": "PA52480",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "45885"
+        },
+        "PA50814": {
+            "candidateID": "PA50814",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "45082",
+            "incumbent": true
+        },
+        "PA52821": {
+            "candidateID": "PA52821",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "46146"
+        },
+        "RI46718": {
+            "candidateID": "RI46718",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "43347"
+        },
+        "RI46719": {
+            "candidateID": "RI46719",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "43113",
+            "incumbent": true
+        },
+        "RI46736": {
+            "candidateID": "RI46736",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "43459"
+        },
+        "RI46735": {
+            "candidateID": "RI46735",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "43100"
+        },
+        "RI46734": {
+            "candidateID": "RI46734",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "43458"
+        },
+        "RI46733": {
+            "candidateID": "RI46733",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "43457"
+        },
+        "SC48236": {
+            "candidateID": "SC48236",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "44218",
+            "incumbent": true
+        },
+        "SC49150": {
+            "candidateID": "SC49150",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "44566"
+        },
+        "SC49152": {
+            "candidateID": "SC49152",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "44752"
+        },
+        "SC49151": {
+            "candidateID": "SC49151",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "44751"
+        },
+        "SC49273": {
+            "candidateID": "SC49273",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "44755"
+        },
+        "SD47682": {
+            "candidateID": "SD47682",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "44000",
+            "incumbent": true
+        },
+        "SD48305": {
+            "candidateID": "SD48305",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "44241"
+        },
+        "SD48447": {
+            "candidateID": "SD48447",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "44323"
+        },
+        "TN49749": {
+            "candidateID": "TN49749",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "46190",
+            "incumbent": true
+        },
+        "TN50581": {
+            "candidateID": "TN50581",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "46639"
+        },
+        "TN50585": {
+            "candidateID": "TN50585",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "46795"
+        },
+        "TN50584": {
+            "candidateID": "TN50584",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "46794"
+        },
+        "TN50613": {
+            "candidateID": "TN50613",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "Ind",
+            "polID": "66288",
+            "polNum": "46806"
+        },
+        "TN50595": {
+            "candidateID": "TN50595",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Ind",
+            "polID": "32916",
+            "polNum": "46802"
+        },
+        "TN50583": {
+            "candidateID": "TN50583",
+            "fullName": "Alyson Kennedy",
+            "first": "Alyson",
+            "last": "Kennedy",
+            "party": "Ind",
+            "polID": "65352",
+            "polNum": "46361"
+        },
+        "TN50594": {
+            "candidateID": "TN50594",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "Ind",
+            "polID": "7623",
+            "polNum": "46803"
+        },
+        "TN50582": {
+            "candidateID": "TN50582",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "Ind",
+            "polID": "64542",
+            "polNum": "46360"
+        },
+        "TX60390": {
+            "candidateID": "TX60390",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "51505",
+            "incumbent": true
+        },
+        "TX61613": {
+            "candidateID": "TX61613",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "52388"
+        },
+        "TX62468": {
+            "candidateID": "TX62468",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "52841"
+        },
+        "TX62467": {
+            "candidateID": "TX62467",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "52840"
+        },
+        "UT55311": {
+            "candidateID": "UT55311",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "50836",
+            "incumbent": true
+        },
+        "UT56065": {
+            "candidateID": "UT56065",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "51109"
+        },
+        "UT56069": {
+            "candidateID": "UT56069",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "51252"
+        },
+        "UT56066": {
+            "candidateID": "UT56066",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Una",
+            "polID": "69343",
+            "polNum": "51255"
+        },
+        "UT56071": {
+            "candidateID": "UT56071",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "51251"
+        },
+        "UT56072": {
+            "candidateID": "UT56072",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "51256"
+        },
+        "UT56067": {
+            "candidateID": "UT56067",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Una",
+            "polID": "69341",
+            "polNum": "51254"
+        },
+        "UT56070": {
+            "candidateID": "UT56070",
+            "fullName": "Joe McHugh",
+            "first": "Joe",
+            "last": "McHugh",
+            "party": "Una",
+            "polID": "24660",
+            "polNum": "51253"
+        },
+        "UT56068": {
+            "candidateID": "UT56068",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "Una",
+            "polID": "7623",
+            "polNum": "50123"
+        },
+        "VA51802": {
+            "candidateID": "VA51802",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "49543"
+        },
+        "VA51373": {
+            "candidateID": "VA51373",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "49233",
+            "incumbent": true
+        },
+        "VA51820": {
+            "candidateID": "VA51820",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "49582"
+        },
+        "VT53668": {
+            "candidateID": "VT53668",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "50137"
+        },
+        "VT53669": {
+            "candidateID": "VT53669",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "49836",
+            "incumbent": true
+        },
+        "VT53681": {
+            "candidateID": "VT53681",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "50276"
+        },
+        "VT53679": {
+            "candidateID": "VT53679",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "50277"
+        },
+        "VT53691": {
+            "candidateID": "VT53691",
+            "fullName": "Kanye West",
+            "first": "Kanye",
+            "last": "West",
+            "party": "Ind",
+            "polID": "69343",
+            "polNum": "50292"
+        },
+        "VT53687": {
+            "candidateID": "VT53687",
+            "fullName": "H. Brooke Paige",
+            "first": "H. Brooke",
+            "last": "Paige",
+            "party": "Ind",
+            "polID": "62482",
+            "polNum": "49570"
+        },
+        "VT53685": {
+            "candidateID": "VT53685",
+            "fullName": "Christopher LaFontaine",
+            "first": "Christopher",
+            "last": "LaFontaine",
+            "party": "Ind",
+            "polID": "69460",
+            "polNum": "50287"
+        },
+        "VT53684": {
+            "candidateID": "VT53684",
+            "fullName": "Alyson Kennedy",
+            "first": "Alyson",
+            "last": "Kennedy",
+            "party": "SWP",
+            "polID": "65352",
+            "polNum": "50285"
+        },
+        "VT53678": {
+            "candidateID": "VT53678",
+            "fullName": "Richard Duncan",
+            "first": "Richard",
+            "last": "Duncan",
+            "party": "Ind",
+            "polID": "56224",
+            "polNum": "50282"
+        },
+        "VT53672": {
+            "candidateID": "VT53672",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "50278"
+        },
+        "VT53675": {
+            "candidateID": "VT53675",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "50279"
+        },
+        "VT53680": {
+            "candidateID": "VT53680",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "LUn",
+            "polID": "7623",
+            "polNum": "49962"
+        },
+        "VT53683": {
+            "candidateID": "VT53683",
+            "fullName": "Gary Swing",
+            "first": "Gary",
+            "last": "Swing",
+            "party": "Oth",
+            "polID": "744",
+            "polNum": "50283"
+        },
+        "VT53674": {
+            "candidateID": "VT53674",
+            "fullName": "Phil Collins",
+            "first": "Phil",
+            "last": "Collins",
+            "party": "Pro",
+            "polID": "67945",
+            "polNum": "50281"
+        },
+        "VT53686": {
+            "candidateID": "VT53686",
+            "fullName": "Keith McCormic",
+            "first": "Keith",
+            "last": "McCormic",
+            "party": "Oth",
+            "polID": "69461",
+            "polNum": "50288"
+        },
+        "VT53689": {
+            "candidateID": "VT53689",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Una",
+            "polID": "69341",
+            "polNum": "50289"
+        },
+        "VT53690": {
+            "candidateID": "VT53690",
+            "fullName": "Jerome Segal",
+            "first": "Jerome",
+            "last": "Segal",
+            "party": "BdR",
+            "polID": "66954",
+            "polNum": "50291"
+        },
+        "VT53677": {
+            "candidateID": "VT53677",
+            "fullName": "Blake Huber",
+            "first": "Blake",
+            "last": "Huber",
+            "party": "AVP",
+            "polID": "69443",
+            "polNum": "50284"
+        },
+        "VT53682": {
+            "candidateID": "VT53682",
+            "fullName": "Kyle Kopitke",
+            "first": "Kyle",
+            "last": "Kopitke",
+            "party": "Ind",
+            "polID": "14237",
+            "polNum": "50286"
+        },
+        "VT53676": {
+            "candidateID": "VT53676",
+            "fullName": "Roque De La Fuente",
+            "first": "Roque",
+            "last": "De La Fuente",
+            "party": "ALP",
+            "polID": "64542",
+            "polNum": "49838"
+        },
+        "VT53688": {
+            "candidateID": "VT53688",
+            "fullName": "Zachary Scalf",
+            "first": "Zachary",
+            "last": "Scalf",
+            "party": "Ind",
+            "polID": "69462",
+            "polNum": "50290"
+        },
+        "WA9288": {
+            "candidateID": "WA9288",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "52026"
+        },
+        "WA9289": {
+            "candidateID": "WA9289",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "51550",
+            "incumbent": true
+        },
+        "WA9300": {
+            "candidateID": "WA9300",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "52299"
+        },
+        "WA9301": {
+            "candidateID": "WA9301",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Grn",
+            "polID": "32916",
+            "polNum": "52300"
+        },
+        "WA9302": {
+            "candidateID": "WA9302",
+            "fullName": "Gloria La Riva",
+            "first": "Gloria",
+            "last": "La Riva",
+            "party": "PSL",
+            "polID": "7623",
+            "polNum": "51798"
+        },
+        "WA9303": {
+            "candidateID": "WA9303",
+            "fullName": "Alyson Kennedy",
+            "first": "Alyson",
+            "last": "Kennedy",
+            "party": "SWP",
+            "polID": "65352",
+            "polNum": "51799"
+        },
+        "WI28080": {
+            "candidateID": "WI28080",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "52103"
+        },
+        "WI27062": {
+            "candidateID": "WI27062",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "52998",
+            "incumbent": true
+        },
+        "WI28081": {
+            "candidateID": "WI28081",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "53456"
+        },
+        "WI28084": {
+            "candidateID": "WI28084",
+            "fullName": "Brian Carroll",
+            "first": "Brian",
+            "last": "Carroll",
+            "party": "ASP",
+            "polID": "66553",
+            "polNum": "53459"
+        },
+        "WI28092": {
+            "candidateID": "WI28092",
+            "fullName": "Don Blankenship",
+            "first": "Don",
+            "last": "Blankenship",
+            "party": "CST",
+            "polID": "66288",
+            "polNum": "53466"
+        },
+        "WV57048": {
+            "candidateID": "WV57048",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "52615",
+            "incumbent": true
+        },
+        "WV58209": {
+            "candidateID": "WV58209",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "53416"
+        },
+        "WV58557": {
+            "candidateID": "WV58557",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "53444"
+        },
+        "WV58558": {
+            "candidateID": "WV58558",
+            "fullName": "Howie Hawkins",
+            "first": "Howie",
+            "last": "Hawkins",
+            "party": "Mnt",
+            "polID": "32916",
+            "polNum": "53445"
+        },
+        "WY55501": {
+            "candidateID": "WY55501",
+            "fullName": "Donald Trump",
+            "first": "Donald",
+            "last": "Trump",
+            "party": "GOP",
+            "polID": "8639",
+            "polNum": "52477",
+            "incumbent": true
+        },
+        "WY55500": {
+            "candidateID": "WY55500",
+            "fullName": "Joe Biden",
+            "first": "Joe",
+            "last": "Biden",
+            "party": "Dem",
+            "polID": "1036",
+            "polNum": "52640"
+        },
+        "WY55505": {
+            "candidateID": "WY55505",
+            "fullName": "Jo Jorgensen",
+            "first": "Jo",
+            "last": "Jorgensen",
+            "party": "Lib",
+            "polID": "67957",
+            "polNum": "52643"
+        },
+        "WY55502": {
+            "candidateID": "WY55502",
+            "fullName": "Brock Pierce",
+            "first": "Brock",
+            "last": "Pierce",
+            "party": "Ind",
+            "polID": "69341",
+            "polNum": "52641"
+        }
+    },
+    "races": {
+        "US-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "US100013",
+                "US1036",
+                "US14237",
+                "US24660",
+                "US26932",
+                "US32916",
+                "US56224",
+                "US59790",
+                "US62482",
+                "US62535",
+                "US62537",
+                "US64469",
+                "US64542",
+                "US65352",
+                "US660",
+                "US66288",
+                "US66553",
+                "US66954",
+                "US67940",
+                "US67945",
+                "US67957",
+                "US67959",
+                "US69341",
+                "US69342",
+                "US69343",
+                "US69442",
+                "US69443",
+                "US69444",
+                "US69447",
+                "US69448",
+                "US69449",
+                "US69460",
+                "US69461",
+                "US69462",
+                "US744",
+                "US7623",
+                "US8639"
+            ]
+        },
+        "AK-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "AK6638",
+                "AK7073",
+                "AK7074",
+                "AK7076",
+                "AK7077",
+                "AK7078",
+                "AK7083"
+            ]
+        },
+        "AL-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "AL5063",
+                "AL5755",
+                "AL5849"
+            ]
+        },
+        "AR-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "AR12686",
+                "AR13356",
+                "AR13750",
+                "AR13751",
+                "AR13752",
+                "AR13753",
+                "AR13754",
+                "AR13755",
+                "AR13756",
+                "AR13757",
+                "AR13758",
+                "AR13759",
+                "AR13769"
+            ]
+        },
+        "AZ-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "AZ10391",
+                "AZ10407",
+                "AZ9677"
+            ]
+        },
+        "CA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "CA21873",
+                "CA22287",
+                "CA22518",
+                "CA22519",
+                "CA22525",
+                "CA22526"
+            ]
+        },
+        "CO-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "CO13659",
+                "CO13660",
+                "CO13661",
+                "CO13662",
+                "CO13663",
+                "CO13664",
+                "CO13665",
+                "CO13666",
+                "CO13667",
+                "CO13668",
+                "CO13669",
+                "CO13670",
+                "CO13671",
+                "CO13672",
+                "CO13673",
+                "CO13674",
+                "CO13675",
+                "CO13676",
+                "CO13677",
+                "CO13678",
+                "CO13697"
+            ]
+        },
+        "CT-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "CT21813",
+                "CT21816",
+                "CT22046",
+                "CT22047"
+            ]
+        },
+        "DC-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "DC10358",
+                "DC10361",
+                "DC10382",
+                "DC10383",
+                "DC10384",
+                "DC10435"
+            ]
+        },
+        "DE-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "DE10612",
+                "DE10797",
+                "DE10799",
+                "DE10800"
+            ]
+        },
+        "FL-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "FL21369",
+                "FL22906",
+                "FL22907",
+                "FL22908",
+                "FL22909",
+                "FL22910",
+                "FL22921"
+            ]
+        },
+        "GA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "GA20740",
+                "GA21510",
+                "GA22207"
+            ]
+        },
+        "HI-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "HI19882",
+                "HI19883",
+                "HI19891",
+                "HI19892",
+                "HI19897",
+                "HI19898"
+            ]
+        },
+        "IA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "IA22627",
+                "IA23545",
+                "IA23546",
+                "IA23547",
+                "IA23548",
+                "IA23549",
+                "IA23550",
+                "IA23551",
+                "IA23552"
+            ]
+        },
+        "ID-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "ID18718",
+                "ID19379",
+                "ID19397",
+                "ID19398",
+                "ID19399",
+                "ID19400",
+                "ID19401"
+            ]
+        },
+        "IL-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "IL28467",
+                "IL28469",
+                "IL28851",
+                "IL28852",
+                "IL28853",
+                "IL28854"
+            ]
+        },
+        "IN-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "IN21368",
+                "IN22147",
+                "IN22392"
+            ]
+        },
+        "KS-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "KS6603",
+                "KS7454",
+                "KS7460"
+            ]
+        },
+        "KY-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "KY5609",
+                "KY6175",
+                "KY6368",
+                "KY6370",
+                "KY6375"
+            ]
+        },
+        "LA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "LA25061",
+                "LA25078",
+                "LA25085",
+                "LA25086",
+                "LA25087",
+                "LA25088",
+                "LA25089",
+                "LA25090",
+                "LA25091",
+                "LA25092",
+                "LA25093",
+                "LA25094",
+                "LA25095"
+            ]
+        },
+        "MA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "MA35087",
+                "MA35088",
+                "MA35104",
+                "MA35105"
+            ]
+        },
+        "MD-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "MD31626",
+                "MD31633",
+                "MD31816",
+                "MD31817",
+                "MD31827"
+            ]
+        },
+        "ME-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "ME29633",
+                "ME30791",
+                "ME30792",
+                "ME30793",
+                "ME30855"
+            ]
+        },
+        "MI-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "MI35597",
+                "MI37091",
+                "MI37092",
+                "MI37093",
+                "MI37094",
+                "MI37095"
+            ]
+        },
+        "MN-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "MN34605",
+                "MN34606",
+                "MN34611",
+                "MN34613",
+                "MN34614",
+                "MN34615",
+                "MN34616",
+                "MN34618",
+                "MN34619"
+            ]
+        },
+        "MO-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "MO10565",
+                "MO10566",
+                "MO10567",
+                "MO10568",
+                "MO9228"
+            ]
+        },
+        "MS-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "MS31907",
+                "MS32595",
+                "MS32636",
+                "MS32649",
+                "MS32650",
+                "MS32651",
+                "MS32652",
+                "MS32653",
+                "MS32654"
+            ]
+        },
+        "MT-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "MT34536",
+                "MT35547",
+                "MT35838"
+            ]
+        },
+        "NC-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "NC43783",
+                "NC44621",
+                "NC44834",
+                "NC45208",
+                "NC45326"
+            ]
+        },
+        "ND-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "ND40669",
+                "ND41107",
+                "ND41115"
+            ]
+        },
+        "NE-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "NE31489",
+                "NE31822",
+                "NE31863"
+            ]
+        },
+        "NH-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "NH49451",
+                "NH49452",
+                "NH49453"
+            ]
+        },
+        "NJ-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "NJ39528",
+                "NJ39529",
+                "NJ39581",
+                "NJ39582",
+                "NJ39583",
+                "NJ39584",
+                "NJ39585",
+                "NJ39586"
+            ]
+        },
+        "NM-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "NM38878",
+                "NM38883",
+                "NM38912",
+                "NM39084",
+                "NM39085",
+                "NM39086"
+            ]
+        },
+        "NV-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "NV37487",
+                "NV37488",
+                "NV37503",
+                "NV37504",
+                "NV37505"
+            ]
+        },
+        "NY-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "NY83621",
+                "NY84296",
+                "NY84345",
+                "NY84346",
+                "NY84347"
+            ]
+        },
+        "OH-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "OH45853",
+                "OH46647",
+                "OH46913",
+                "OH46922"
+            ]
+        },
+        "OK-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "OK45322",
+                "OK46413",
+                "OK46414",
+                "OK46415",
+                "OK46416",
+                "OK46427"
+            ]
+        },
+        "OR-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "OR5789",
+                "OR5792",
+                "OR6024",
+                "OR6025",
+                "OR6026"
+            ]
+        },
+        "PA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "PA50814",
+                "PA52480",
+                "PA52821"
+            ]
+        },
+        "RI-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "RI46718",
+                "RI46719",
+                "RI46733",
+                "RI46734",
+                "RI46735",
+                "RI46736"
+            ]
+        },
+        "SC-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "SC48236",
+                "SC49150",
+                "SC49151",
+                "SC49152",
+                "SC49273"
+            ]
+        },
+        "SD-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "SD47682",
+                "SD48305",
+                "SD48447"
+            ]
+        },
+        "TN-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "TN49749",
+                "TN50581",
+                "TN50582",
+                "TN50583",
+                "TN50584",
+                "TN50585",
+                "TN50594",
+                "TN50595",
+                "TN50613"
+            ]
+        },
+        "TX-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "TX60390",
+                "TX61613",
+                "TX62467",
+                "TX62468"
+            ]
+        },
+        "UT-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "UT55311",
+                "UT56065",
+                "UT56066",
+                "UT56067",
+                "UT56068",
+                "UT56069",
+                "UT56070",
+                "UT56071",
+                "UT56072"
+            ]
+        },
+        "VA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "VA51373",
+                "VA51802",
+                "VA51820"
+            ]
+        },
+        "VT-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "VT53668",
+                "VT53669",
+                "VT53672",
+                "VT53674",
+                "VT53675",
+                "VT53676",
+                "VT53677",
+                "VT53678",
+                "VT53679",
+                "VT53680",
+                "VT53681",
+                "VT53682",
+                "VT53683",
+                "VT53684",
+                "VT53685",
+                "VT53686",
+                "VT53687",
+                "VT53688",
+                "VT53689",
+                "VT53690",
+                "VT53691"
+            ]
+        },
+        "WA-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "WA9288",
+                "WA9289",
+                "WA9300",
+                "WA9301",
+                "WA9302",
+                "WA9303"
+            ]
+        },
+        "WI-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "WI27062",
+                "WI28080",
+                "WI28081",
+                "WI28084",
+                "WI28092"
+            ]
+        },
+        "WV-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "WV57048",
+                "WV58209",
+                "WV58557",
+                "WV58558"
+            ]
+        },
+        "WY-P-0": {
+            "date": "2020-11-03",
+            "timestamp": "2020-11-06T17:55:35.052Z",
+            "test": false,
+            "raceID": "0",
+            "officeID": "P",
+            "officeName": "president",
+            "normOfficeName": "president",
+            "raceTypeID": "G",
+            "raceTypeName": "general",
+            "party": "Opn",
+            "candidates": [
+                "WY55500",
+                "WY55501",
+                "WY55502",
+                "WY55505"
+            ]
+        }
+    }
+}
