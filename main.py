@@ -62,7 +62,6 @@ def download_all_data():
     download_all_state_election_data(metadata)
     
 ## GETTING CACHED DATA 
-
 def get_metadata():
     f = open(METADATA_PKL_FILE, "rb")
     result = pickle.load(f)
@@ -151,5 +150,5 @@ def generate_report():
     print("Estimated MOV: " + str(mov))
     print("-----------report end")
 
-# download_all_data()
+download_all_data()
 generate_report()
