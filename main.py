@@ -43,7 +43,7 @@ def download_state_election_data(stateInitials):
     return python_result
     
 def download_all_state_election_data(metadata):
-    result = {"states": {}}
+    result = {STATES_KEY: {}}
     print("Collecting data from 50 states ...")
     for i, state in enumerate(STATE_INITIALS):
         downloaded_state_data = download_state_election_data(state)
@@ -89,7 +89,6 @@ def parse_state_election_data(metadata, data):
     state_real_total_votes = 0
     state_proj_total_votes = 0
 
-    precinct_total = 0
     for precinct, precinct_data in precinct_results.items():
         for entry in precinct_data["results"]:
             name = get_candidate_name(metadata, entry["candidateID"])
@@ -112,6 +111,7 @@ def parse_state_election_data(metadata, data):
 
 ## ANALYZING DATA
 def generate_report(): 
+    print("-----------report start")
     metadata = get_metadata()
     all_states_data = get_all_state_election_data()
     print("Data refreshed at " + str(all_states_data["timestamp"]))
@@ -122,7 +122,6 @@ def generate_report():
     net_votes_delta = 0
 
     for state, state_data in all_states_data[STATES_KEY].items(): 
-        # print(state_data)
         net_votes_real += state_data[REAL_TOTAL_VOTES_KEY]
         net_votes_proj += state_data[PROJ_TOTAL_VOTES_KEY]
         net_votes_delta += state_data[DELTA_KEY]
@@ -150,6 +149,7 @@ def generate_report():
     print()
     mov = int((biden[PROJ_PCT_KEY] - trump[PROJ_PCT_KEY]) * 10) / 10
     print("Estimated MOV: " + str(mov))
+    print("-----------report end")
 
-download_all_data()
+# download_all_data()
 generate_report()
