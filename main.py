@@ -17,6 +17,7 @@ ALLSTATEELECTION_PKL_FILE = "state_elect.pkl"
 
 PROJ_TOTAL_VOTES_KEY = "projected_total_votes"
 REAL_TOTAL_VOTES_KEY = "real_total_votes"
+VOTES_REMAINING_KEY = "votes_remaining"
 
 PROJ_PCT_KEY = "projected_percent"
 REAL_PCT_KEY = "real_percent"
@@ -69,12 +70,16 @@ def calculate_candidate_votes(statedata, metadata):
         precinct_results = state_data["results"][0]["results"]
         full_data[state] = {}
 
+        precinct_total = 0
+        total_pcts = 0
         for precinct, precinct_data in precinct_results.items():
+            precinct_total += precinct_data["precinctsReporting"] 
             reporting_pct = precinct_data["precinctsReportingPct"] / 100.0
             if reporting_pct == 0:
                 continue 
 
             for entry in precinct_data["results"]:
+                total_pcts +=precinct_data["precinctsReportingPct"] 
                 name = get_candidate_name(metadata, entry["candidateID"])
                 real_total_votes = entry["voteCount"]
                 proj_total_votes= real_total_votes / reporting_pct
@@ -84,7 +89,8 @@ def calculate_candidate_votes(statedata, metadata):
                 
                 full_data[state][name][REAL_TOTAL_VOTES_KEY] += int(real_total_votes)
                 full_data[state][name][PROJ_TOTAL_VOTES_KEY] += int(proj_total_votes)
-    
+                
+        assert(precinct_total == state_data["results"][0]["summary"]["precinctsReporting"])
     return full_data
 
 def download_all_data():
@@ -103,7 +109,20 @@ def generate_report():
     net_proj_votes = 0
     for state, state_data in results.items(): 
         # print("=======" + state)
-        
+
+        if state == "NY":
+            print(state_data)
+            proj = 0
+            real = 0
+            delta = 0
+            for c in state_data:
+                proj += state_data[c][PROJ_TOTAL_VOTES_KEY]
+                real += state_data[c][REAL_TOTAL_VOTES_KEY]
+                delta += state_data[c][PROJ_TOTAL_VOTES_KEY] - state_data[c][REAL_TOTAL_VOTES_KEY] 
+            print("real: " + str(real))
+            print("proj: " + str(proj))
+            print("delta: " + str(delta) + " pct: " + str(real/proj))
+
         for candidate_name, candidate_data in state_data.items(): 
             if candidate_name not in candidates:
                 candidates[candidate_name] = {REAL_TOTAL_VOTES_KEY:0, PROJ_TOTAL_VOTES_KEY: 0}
@@ -137,5 +156,5 @@ def generate_report():
     mov = int((biden[PROJ_PCT_KEY] - trump[PROJ_PCT_KEY]) * 10) / 10
     print("Estimated MOV: " + str(mov))
 
-download_all_data()
+# download_all_data()
 generate_report()
