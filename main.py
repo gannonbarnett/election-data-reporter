@@ -17,11 +17,15 @@ ALLSTATEELECTION_PKL_FILE = "state_elect.pkl"
 
 PROJ_TOTAL_VOTES_KEY = "projected_total_votes"
 REAL_TOTAL_VOTES_KEY = "real_total_votes"
-VOTES_REMAINING_KEY = "votes_remaining"
+DELTA_KEY = "delta"
 
 PROJ_PCT_KEY = "projected_percent"
 REAL_PCT_KEY = "real_percent"
 
+CANDIDATES_KEY = "candidates"
+STATES_KEY = "states"
+
+## DOWNLOADING DATA 
 def download_metadata():
     f = open(METADATA_PKL_FILE, "wb")
 
@@ -30,12 +34,7 @@ def download_metadata():
     pickle.dump(python_result, f)
     f.close()
     print("Download metadata completed")
-
-def get_metadata():
-    f = open(METADATA_PKL_FILE, "rb")
-    result = pickle.load(f)
-    f.close()
-    return result
+    return python_result
 
 def download_state_election_data(stateInitials):
     endpoint = STATEPRES_ENDPOINT_WO_JSON + stateInitials + ".json"
@@ -43,19 +42,29 @@ def download_state_election_data(stateInitials):
     python_result = json.loads(json_result)
     return python_result
     
-def download_all_state_election_data():
+def download_all_state_election_data(metadata):
     result = {"states": {}}
     print("Collecting data from 50 states ...")
     for i, state in enumerate(STATE_INITIALS):
-        result["states"][state] = download_state_election_data(state)
+        downloaded_state_data = download_state_election_data(state)
+        result[STATES_KEY][state] = parse_state_election_data(metadata, downloaded_state_data)
+
+    json.dump(result, open("parsed_results.json", "w"))
+
     result["timestamp"] = datetime.datetime.utcnow()
     f = open(ALLSTATEELECTION_PKL_FILE, "wb")
     pickle.dump(result, f)
     f.close()
     print("Download state election data completed")
 
-def get_all_state_election_data():
-    f = open(ALLSTATEELECTION_PKL_FILE, "rb")
+def download_all_data():
+    metadata = download_metadata()
+    download_all_state_election_data(metadata)
+    
+## GETTING CACHED DATA 
+
+def get_metadata():
+    f = open(METADATA_PKL_FILE, "rb")
     result = pickle.load(f)
     f.close()
     return result
@@ -63,98 +72,84 @@ def get_all_state_election_data():
 def get_candidate_name(metadata, id):
     return metadata["candidates"][id]["fullName"]
 
-def calculate_candidate_votes(statedata, metadata):
-    full_data = {}
-    total_precincts = 0
-    for state, state_data in statedata["states"].items():
-        precinct_results = state_data["results"][0]["results"]
-        full_data[state] = {}
+def get_all_state_election_data():
+    f = open(ALLSTATEELECTION_PKL_FILE, "rb")
+    result = pickle.load(f)
+    f.close()
+    return result
 
-        precinct_total = 0
-        total_pcts = 0
-        for precinct, precinct_data in precinct_results.items():
-            precinct_total += precinct_data["precinctsReporting"] 
-            reporting_pct = precinct_data["precinctsReportingPct"] / 100.0
-            if reporting_pct == 0:
-                continue 
+## PROCCESSING DOWNLOADED DATA 
+def parse_state_election_data(metadata, data):
+    parsed_data = {CANDIDATES_KEY:{}}
 
-            for entry in precinct_data["results"]:
-                total_pcts +=precinct_data["precinctsReportingPct"] 
-                name = get_candidate_name(metadata, entry["candidateID"])
-                real_total_votes = entry["voteCount"]
-                proj_total_votes= real_total_votes / reporting_pct
-                
-                if name not in full_data[state]:
-                    full_data[state][name] = {REAL_TOTAL_VOTES_KEY: 0, PROJ_TOTAL_VOTES_KEY: 0}
-                
-                full_data[state][name][REAL_TOTAL_VOTES_KEY] += int(real_total_votes)
-                full_data[state][name][PROJ_TOTAL_VOTES_KEY] += int(proj_total_votes)
-                
-        assert(precinct_total == state_data["results"][0]["summary"]["precinctsReporting"])
-    return full_data
+    precinct_results = data["results"][0]["results"]
+    summary = data["results"][0]["summary"]
+    eevp = summary["eevp"] / 100.0
 
-def download_all_data():
-    download_all_state_election_data()
-    download_metadata()
+    state_real_total_votes = 0
+    state_proj_total_votes = 0
 
+    precinct_total = 0
+    for precinct, precinct_data in precinct_results.items():
+        for entry in precinct_data["results"]:
+            name = get_candidate_name(metadata, entry["candidateID"])
+            cand_real_total_votes = entry["voteCount"]
+            cand_proj_total_votes = cand_real_total_votes / eevp 
+
+            if name not in parsed_data[CANDIDATES_KEY]:
+                parsed_data[CANDIDATES_KEY][name] = {REAL_TOTAL_VOTES_KEY: 0, PROJ_TOTAL_VOTES_KEY: 0}
+            
+            parsed_data[CANDIDATES_KEY][name][REAL_TOTAL_VOTES_KEY] += int(cand_real_total_votes)
+            parsed_data[CANDIDATES_KEY][name][PROJ_TOTAL_VOTES_KEY] += int(cand_proj_total_votes)
+
+            state_real_total_votes += cand_real_total_votes
+            state_proj_total_votes += cand_proj_total_votes
+    parsed_data[REAL_TOTAL_VOTES_KEY] = state_real_total_votes
+    parsed_data[PROJ_TOTAL_VOTES_KEY] = state_proj_total_votes
+    parsed_data[DELTA_KEY] = state_proj_total_votes - state_real_total_votes
+
+    return parsed_data
+
+## ANALYZING DATA
 def generate_report(): 
     metadata = get_metadata()
-    statedata = get_all_state_election_data()
-    print("Data refreshed at " + str(statedata["timestamp"]))
+    all_states_data = get_all_state_election_data()
+    print("Data refreshed at " + str(all_states_data["timestamp"]))
 
-    results = calculate_candidate_votes(statedata, metadata)
+    net_election_results = {}
+    net_votes_real = 0
+    net_votes_proj = 0
+    net_votes_delta = 0
 
-    candidates = {}
-    net_real_votes = 0
-    net_proj_votes = 0
-    for state, state_data in results.items(): 
-        # print("=======" + state)
+    for state, state_data in all_states_data[STATES_KEY].items(): 
+        # print(state_data)
+        net_votes_real += state_data[REAL_TOTAL_VOTES_KEY]
+        net_votes_proj += state_data[PROJ_TOTAL_VOTES_KEY]
+        net_votes_delta += state_data[DELTA_KEY]
 
-        if state == "NY":
-            print(state_data)
-            proj = 0
-            real = 0
-            delta = 0
-            for c in state_data:
-                proj += state_data[c][PROJ_TOTAL_VOTES_KEY]
-                real += state_data[c][REAL_TOTAL_VOTES_KEY]
-                delta += state_data[c][PROJ_TOTAL_VOTES_KEY] - state_data[c][REAL_TOTAL_VOTES_KEY] 
-            print("real: " + str(real))
-            print("proj: " + str(proj))
-            print("delta: " + str(delta) + " pct: " + str(real/proj))
-
-        for candidate_name, candidate_data in state_data.items(): 
-            if candidate_name not in candidates:
-                candidates[candidate_name] = {REAL_TOTAL_VOTES_KEY:0, PROJ_TOTAL_VOTES_KEY: 0}
-            
-            candidates[candidate_name][REAL_TOTAL_VOTES_KEY] += candidate_data[REAL_TOTAL_VOTES_KEY]
-            candidates[candidate_name][PROJ_TOTAL_VOTES_KEY] += candidate_data[PROJ_TOTAL_VOTES_KEY]
-
-            net_real_votes += candidate_data[REAL_TOTAL_VOTES_KEY]  
-            net_proj_votes += candidate_data[PROJ_TOTAL_VOTES_KEY] - candidate_data[REAL_TOTAL_VOTES_KEY] 
-
-        #     if candidate_name in ["Donald Trump", "Joe Biden"]:
-        #         print(candidate_name + ", " + str(candidate_data[REAL_TOTAL_VOTES_KEY]))
-        # print()
-    proj_total_votes = net_real_votes + net_proj_votes
+        for candidate_name, candidate_data in state_data[CANDIDATES_KEY].items(): 
+            if candidate_name not in net_election_results:
+                net_election_results[candidate_name] = {REAL_TOTAL_VOTES_KEY:0, PROJ_TOTAL_VOTES_KEY: 0}
+            net_election_results[candidate_name][REAL_TOTAL_VOTES_KEY] += candidate_data[REAL_TOTAL_VOTES_KEY]
+            net_election_results[candidate_name][PROJ_TOTAL_VOTES_KEY] += candidate_data[PROJ_TOTAL_VOTES_KEY]
 
     print()
-    print("Net votes\treal: " + str(net_real_votes) + "\tproj:" + str(net_proj_votes) + "\treal + proj:" + str(proj_total_votes))
+    print("Net votes\treal: " + str(net_votes_real) + "\tproj:" + str(net_votes_proj) + "\tdelta:" + str(net_votes_delta))
     print()
     
     for candidate_name in ["Joe Biden", "Donald Trump"]:
-        data = candidates[candidate_name]
+        data = net_election_results[candidate_name]
         
-        data[REAL_PCT_KEY] = int((data[REAL_TOTAL_VOTES_KEY] / net_real_votes) * 10000) / 100.0
-        data[PROJ_PCT_KEY] = int((data[PROJ_TOTAL_VOTES_KEY] / proj_total_votes) * 10000) / 100.0
+        data[REAL_PCT_KEY] = int((data[REAL_TOTAL_VOTES_KEY] / net_votes_real) * 10000) / 100.0
+        data[PROJ_PCT_KEY] = int((data[PROJ_TOTAL_VOTES_KEY] / net_votes_proj) * 10000) / 100.0
         print(candidate_name + "\treal:" + str(data[REAL_TOTAL_VOTES_KEY]) + ", " + str(data[REAL_PCT_KEY]) + "%\tproj:" + str(data[PROJ_TOTAL_VOTES_KEY]) + ", " + str(data[PROJ_PCT_KEY]) + "%")
 
-    biden = candidates["Joe Biden"]
-    trump = candidates["Donald Trump"]
+    biden = net_election_results["Joe Biden"]
+    trump = net_election_results["Donald Trump"]
 
     print()
     mov = int((biden[PROJ_PCT_KEY] - trump[PROJ_PCT_KEY]) * 10) / 10
     print("Estimated MOV: " + str(mov))
 
-# download_all_data()
+download_all_data()
 generate_report()

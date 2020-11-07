@@ -1,0 +1,2161 @@
+{
+    "timestamp": "2020-11-07T05:36:47.093Z",
+    "test": false,
+    "results": [
+        {
+            "raceID": "NY-P-0",
+            "summary": {
+                "ruid": "NY",
+                "level": "state",
+                "precinctsTotal": 15492,
+                "precinctsReporting": 15337,
+                "precinctsReportingPct": 99.0,
+                "results": [
+                    {
+                        "candidateID": "NY83621",
+                        "voteCount": 3694996,
+                        "votePct": 55.71,
+                        "winner": "X",
+                        "electWon": 29
+                    },
+                    {
+                        "candidateID": "NY84296",
+                        "voteCount": 2849085,
+                        "votePct": 42.95,
+                        "electWon": 0
+                    },
+                    {
+                        "candidateID": "NY84346",
+                        "voteCount": 47802,
+                        "votePct": 0.72,
+                        "electWon": 0
+                    },
+                    {
+                        "candidateID": "NY84345",
+                        "voteCount": 23267,
+                        "votePct": 0.35,
+                        "electWon": 0
+                    },
+                    {
+                        "candidateID": "NY84347",
+                        "voteCount": 17646,
+                        "votePct": 0.27,
+                        "electWon": 0
+                    }
+                ],
+                "eevp": 78.0,
+                "electTotal": 29
+            },
+            "results": {
+                "36001": {
+                    "ruid": "36001",
+                    "level": "subunit",
+                    "precinctsTotal": 319,
+                    "precinctsReporting": 319,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 73189,
+                            "votePct": 60.45
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 45570,
+                            "votePct": 37.64
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 1258,
+                            "votePct": 1.04
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 574,
+                            "votePct": 0.47
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 478,
+                            "votePct": 0.39
+                        }
+                    ]
+                },
+                "36003": {
+                    "ruid": "36003",
+                    "level": "subunit",
+                    "precinctsTotal": 39,
+                    "precinctsReporting": 39,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 12670,
+                            "votePct": 73.36
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 4188,
+                            "votePct": 24.25
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 278,
+                            "votePct": 1.61
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 69,
+                            "votePct": 0.4
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 66,
+                            "votePct": 0.38
+                        }
+                    ]
+                },
+                "36005": {
+                    "ruid": "36005",
+                    "level": "subunit",
+                    "precinctsTotal": 999,
+                    "precinctsReporting": 919,
+                    "precinctsReportingPct": 91.99,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 271835,
+                            "votePct": 82.46
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 55849,
+                            "votePct": 16.94
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 1020,
+                            "votePct": 0.31
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 607,
+                            "votePct": 0.18
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 327,
+                            "votePct": 0.1
+                        }
+                    ]
+                },
+                "36007": {
+                    "ruid": "36007",
+                    "level": "subunit",
+                    "precinctsTotal": 141,
+                    "precinctsReporting": 141,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 40902,
+                            "votePct": 53.21
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 34464,
+                            "votePct": 44.83
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 900,
+                            "votePct": 1.17
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 316,
+                            "votePct": 0.41
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 293,
+                            "votePct": 0.38
+                        }
+                    ]
+                },
+                "36009": {
+                    "ruid": "36009",
+                    "level": "subunit",
+                    "precinctsTotal": 55,
+                    "precinctsReporting": 55,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 20295,
+                            "votePct": 67.54
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 9142,
+                            "votePct": 30.42
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 387,
+                            "votePct": 1.29
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 134,
+                            "votePct": 0.45
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 93,
+                            "votePct": 0.31
+                        }
+                    ]
+                },
+                "36011": {
+                    "ruid": "36011",
+                    "level": "subunit",
+                    "precinctsTotal": 47,
+                    "precinctsReporting": 47,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 17639,
+                            "votePct": 58.32
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 11993,
+                            "votePct": 39.65
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 335,
+                            "votePct": 1.11
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 155,
+                            "votePct": 0.51
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 125,
+                            "votePct": 0.41
+                        }
+                    ]
+                },
+                "36013": {
+                    "ruid": "36013",
+                    "level": "subunit",
+                    "precinctsTotal": 61,
+                    "precinctsReporting": 61,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 31247,
+                            "votePct": 64.52
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 16200,
+                            "votePct": 33.45
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 615,
+                            "votePct": 1.27
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 218,
+                            "votePct": 0.45
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 148,
+                            "votePct": 0.31
+                        }
+                    ]
+                },
+                "36015": {
+                    "ruid": "36015",
+                    "level": "subunit",
+                    "precinctsTotal": 89,
+                    "precinctsReporting": 89,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 19388,
+                            "votePct": 61.27
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 11573,
+                            "votePct": 36.57
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 480,
+                            "votePct": 1.52
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 122,
+                            "votePct": 0.39
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 83,
+                            "votePct": 0.26
+                        }
+                    ]
+                },
+                "36017": {
+                    "ruid": "36017",
+                    "level": "subunit",
+                    "precinctsTotal": 31,
+                    "precinctsReporting": 31,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 11736,
+                            "votePct": 68.07
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 5126,
+                            "votePct": 29.73
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 255,
+                            "votePct": 1.48
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 70,
+                            "votePct": 0.41
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 54,
+                            "votePct": 0.31
+                        }
+                    ]
+                },
+                "36019": {
+                    "ruid": "36019",
+                    "level": "subunit",
+                    "precinctsTotal": 51,
+                    "precinctsReporting": 51,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 14354,
+                            "votePct": 52.25
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 12690,
+                            "votePct": 46.19
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 221,
+                            "votePct": 0.8
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 125,
+                            "votePct": 0.46
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 81,
+                            "votePct": 0.29
+                        }
+                    ]
+                },
+                "36021": {
+                    "ruid": "36021",
+                    "level": "subunit",
+                    "precinctsTotal": 50,
+                    "precinctsReporting": 50,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 14148,
+                            "votePct": 51.38
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 12883,
+                            "votePct": 46.78
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 293,
+                            "votePct": 1.06
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 127,
+                            "votePct": 0.46
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 86,
+                            "votePct": 0.31
+                        }
+                    ]
+                },
+                "36023": {
+                    "ruid": "36023",
+                    "level": "subunit",
+                    "precinctsTotal": 51,
+                    "precinctsReporting": 51,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 9484,
+                            "votePct": 56.79
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 6829,
+                            "votePct": 40.89
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 235,
+                            "votePct": 1.41
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 80,
+                            "votePct": 0.48
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 72,
+                            "votePct": 0.43
+                        }
+                    ]
+                },
+                "36025": {
+                    "ruid": "36025",
+                    "level": "subunit",
+                    "precinctsTotal": 55,
+                    "precinctsReporting": 55,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 12600,
+                            "votePct": 63.62
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 6866,
+                            "votePct": 34.67
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 219,
+                            "votePct": 1.11
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 62,
+                            "votePct": 0.31
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 59,
+                            "votePct": 0.3
+                        }
+                    ]
+                },
+                "36027": {
+                    "ruid": "36027",
+                    "level": "subunit",
+                    "precinctsTotal": 220,
+                    "precinctsReporting": 220,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 59661,
+                            "votePct": 50.05
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 57720,
+                            "votePct": 48.42
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 1007,
+                            "votePct": 0.84
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 420,
+                            "votePct": 0.35
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 401,
+                            "votePct": 0.34
+                        }
+                    ]
+                },
+                "36029": {
+                    "ruid": "36029",
+                    "level": "subunit",
+                    "precinctsTotal": 837,
+                    "precinctsReporting": 837,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 197979,
+                            "votePct": 51.7
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 178189,
+                            "votePct": 46.53
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 3724,
+                            "votePct": 0.97
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 1566,
+                            "votePct": 0.41
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 1500,
+                            "votePct": 0.39
+                        }
+                    ]
+                },
+                "36031": {
+                    "ruid": "36031",
+                    "level": "subunit",
+                    "precinctsTotal": 42,
+                    "precinctsReporting": 42,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 7953,
+                            "votePct": 52.37
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 6970,
+                            "votePct": 45.9
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 142,
+                            "votePct": 0.94
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 67,
+                            "votePct": 0.44
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 53,
+                            "votePct": 0.35
+                        }
+                    ]
+                },
+                "36033": {
+                    "ruid": "36033",
+                    "level": "subunit",
+                    "precinctsTotal": 49,
+                    "precinctsReporting": 49,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 8530,
+                            "votePct": 55.4
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 6586,
+                            "votePct": 42.77
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 154,
+                            "votePct": 1.0
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 71,
+                            "votePct": 0.46
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 56,
+                            "votePct": 0.36
+                        }
+                    ]
+                },
+                "36035": {
+                    "ruid": "36035",
+                    "level": "subunit",
+                    "precinctsTotal": 42,
+                    "precinctsReporting": 42,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 12983,
+                            "votePct": 72.66
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 4542,
+                            "votePct": 25.42
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 223,
+                            "votePct": 1.25
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 73,
+                            "votePct": 0.41
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 47,
+                            "votePct": 0.26
+                        }
+                    ]
+                },
+                "36037": {
+                    "ruid": "36037",
+                    "level": "subunit",
+                    "precinctsTotal": 52,
+                    "precinctsReporting": 52,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 17340,
+                            "votePct": 69.35
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 7048,
+                            "votePct": 28.19
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 412,
+                            "votePct": 1.65
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 121,
+                            "votePct": 0.48
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 83,
+                            "votePct": 0.33
+                        }
+                    ]
+                },
+                "36039": {
+                    "ruid": "36039",
+                    "level": "subunit",
+                    "precinctsTotal": 52,
+                    "precinctsReporting": 52,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 12722,
+                            "votePct": 61.07
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 7675,
+                            "votePct": 36.84
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 266,
+                            "votePct": 1.28
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 90,
+                            "votePct": 0.43
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 78,
+                            "votePct": 0.37
+                        }
+                    ]
+                },
+                "36041": {
+                    "ruid": "36041",
+                    "level": "subunit",
+                    "precinctsTotal": 11,
+                    "precinctsReporting": 11,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 1914,
+                            "votePct": 67.82
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 863,
+                            "votePct": 30.58
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 34,
+                            "votePct": 1.2
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 6,
+                            "votePct": 0.21
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 5,
+                            "votePct": 0.18
+                        }
+                    ]
+                },
+                "36043": {
+                    "ruid": "36043",
+                    "level": "subunit",
+                    "precinctsTotal": 59,
+                    "precinctsReporting": 59,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 17038,
+                            "votePct": 68.79
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 7282,
+                            "votePct": 29.4
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 289,
+                            "votePct": 1.17
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 80,
+                            "votePct": 0.32
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 80,
+                            "votePct": 0.32
+                        }
+                    ]
+                },
+                "36045": {
+                    "ruid": "36045",
+                    "level": "subunit",
+                    "precinctsTotal": 69,
+                    "precinctsReporting": 69,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 22779,
+                            "votePct": 64.11
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 12053,
+                            "votePct": 33.92
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 423,
+                            "votePct": 1.19
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 147,
+                            "votePct": 0.41
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 128,
+                            "votePct": 0.36
+                        }
+                    ]
+                },
+                "36047": {
+                    "ruid": "36047",
+                    "level": "subunit",
+                    "precinctsTotal": 1843,
+                    "precinctsReporting": 1843,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 514133,
+                            "votePct": 74.09
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 174731,
+                            "votePct": 25.18
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 2704,
+                            "votePct": 0.39
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 1852,
+                            "votePct": 0.27
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 517,
+                            "votePct": 0.07
+                        }
+                    ]
+                },
+                "36049": {
+                    "ruid": "36049",
+                    "level": "subunit",
+                    "precinctsTotal": 36,
+                    "precinctsReporting": 36,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 7931,
+                            "votePct": 72.91
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 2768,
+                            "votePct": 25.45
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 110,
+                            "votePct": 1.01
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 41,
+                            "votePct": 0.38
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 28,
+                            "votePct": 0.26
+                        }
+                    ]
+                },
+                "36051": {
+                    "ruid": "36051",
+                    "level": "subunit",
+                    "precinctsTotal": 40,
+                    "precinctsReporting": 40,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 16575,
+                            "votePct": 62.94
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 9150,
+                            "votePct": 34.75
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 399,
+                            "votePct": 1.52
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 112,
+                            "votePct": 0.43
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 97,
+                            "votePct": 0.37
+                        }
+                    ]
+                },
+                "36053": {
+                    "ruid": "36053",
+                    "level": "subunit",
+                    "precinctsTotal": 52,
+                    "precinctsReporting": 52,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 16553,
+                            "votePct": 59.91
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 10417,
+                            "votePct": 37.7
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 390,
+                            "votePct": 1.41
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 147,
+                            "votePct": 0.53
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 123,
+                            "votePct": 0.45
+                        }
+                    ]
+                },
+                "36055": {
+                    "ruid": "36055",
+                    "level": "subunit",
+                    "precinctsTotal": 825,
+                    "precinctsReporting": 825,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 146403,
+                            "votePct": 53.17
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 122995,
+                            "votePct": 44.67
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 3715,
+                            "votePct": 1.35
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 1256,
+                            "votePct": 0.46
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 1001,
+                            "votePct": 0.36
+                        }
+                    ]
+                },
+                "36057": {
+                    "ruid": "36057",
+                    "level": "subunit",
+                    "precinctsTotal": 42,
+                    "precinctsReporting": 42,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 11500,
+                            "votePct": 65.36
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 5746,
+                            "votePct": 32.66
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 215,
+                            "votePct": 1.22
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 70,
+                            "votePct": 0.4
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 64,
+                            "votePct": 0.36
+                        }
+                    ]
+                },
+                "36059": {
+                    "ruid": "36059",
+                    "level": "subunit",
+                    "precinctsTotal": 1205,
+                    "precinctsReporting": 1205,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 286661,
+                            "votePct": 50.05
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 280288,
+                            "votePct": 48.94
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 2823,
+                            "votePct": 0.49
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 1495,
+                            "votePct": 0.26
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 1439,
+                            "votePct": 0.25
+                        }
+                    ]
+                },
+                "36061": {
+                    "ruid": "36061",
+                    "level": "subunit",
+                    "precinctsTotal": 1298,
+                    "precinctsReporting": 1298,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 377605,
+                            "votePct": 84.5
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 65001,
+                            "votePct": 14.55
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 2050,
+                            "votePct": 0.46
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 1776,
+                            "votePct": 0.4
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 429,
+                            "votePct": 0.1
+                        }
+                    ]
+                },
+                "36063": {
+                    "ruid": "36063",
+                    "level": "subunit",
+                    "precinctsTotal": 180,
+                    "precinctsReporting": 180,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 51355,
+                            "votePct": 58.48
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 34809,
+                            "votePct": 39.64
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 972,
+                            "votePct": 1.11
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 402,
+                            "votePct": 0.46
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 283,
+                            "votePct": 0.32
+                        }
+                    ]
+                },
+                "36065": {
+                    "ruid": "36065",
+                    "level": "subunit",
+                    "precinctsTotal": 192,
+                    "precinctsReporting": 192,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 48213,
+                            "votePct": 63.51
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 26205,
+                            "votePct": 34.52
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 945,
+                            "votePct": 1.24
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 286,
+                            "votePct": 0.38
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 264,
+                            "votePct": 0.35
+                        }
+                    ]
+                },
+                "36067": {
+                    "ruid": "36067",
+                    "level": "subunit",
+                    "precinctsTotal": 429,
+                    "precinctsReporting": 429,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 93850,
+                            "votePct": 53.08
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 78994,
+                            "votePct": 44.68
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 2002,
+                            "votePct": 1.13
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 1297,
+                            "votePct": 0.73
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 655,
+                            "votePct": 0.37
+                        }
+                    ]
+                },
+                "36069": {
+                    "ruid": "36069",
+                    "level": "subunit",
+                    "precinctsTotal": 92,
+                    "precinctsReporting": 92,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 25757,
+                            "votePct": 53.85
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 20779,
+                            "votePct": 43.44
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 823,
+                            "votePct": 1.72
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 258,
+                            "votePct": 0.54
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 213,
+                            "votePct": 0.45
+                        }
+                    ]
+                },
+                "36071": {
+                    "ruid": "36071",
+                    "level": "subunit",
+                    "precinctsTotal": 334,
+                    "precinctsReporting": 334,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 74703,
+                            "votePct": 54.22
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 61223,
+                            "votePct": 44.44
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 1087,
+                            "votePct": 0.79
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 388,
+                            "votePct": 0.28
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 371,
+                            "votePct": 0.27
+                        }
+                    ]
+                },
+                "36073": {
+                    "ruid": "36073",
+                    "level": "subunit",
+                    "precinctsTotal": 40,
+                    "precinctsReporting": 40,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 11173,
+                            "votePct": 71.51
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 4082,
+                            "votePct": 26.12
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 274,
+                            "votePct": 1.75
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 58,
+                            "votePct": 0.37
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 38,
+                            "votePct": 0.24
+                        }
+                    ]
+                },
+                "36075": {
+                    "ruid": "36075",
+                    "level": "subunit",
+                    "precinctsTotal": 110,
+                    "precinctsReporting": 61,
+                    "precinctsReportingPct": 55.45,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 28914,
+                            "votePct": 64.91
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 14677,
+                            "votePct": 32.95
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 585,
+                            "votePct": 1.31
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 209,
+                            "votePct": 0.47
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 161,
+                            "votePct": 0.36
+                        }
+                    ]
+                },
+                "36077": {
+                    "ruid": "36077",
+                    "level": "subunit",
+                    "precinctsTotal": 49,
+                    "precinctsReporting": 49,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 12682,
+                            "votePct": 56.77
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 9138,
+                            "votePct": 40.9
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 336,
+                            "votePct": 1.5
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 101,
+                            "votePct": 0.45
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 83,
+                            "votePct": 0.37
+                        }
+                    ]
+                },
+                "36079": {
+                    "ruid": "36079",
+                    "level": "subunit",
+                    "precinctsTotal": 86,
+                    "precinctsReporting": 86,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 25899,
+                            "votePct": 59.47
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 17106,
+                            "votePct": 39.28
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 316,
+                            "votePct": 0.73
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 119,
+                            "votePct": 0.27
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 112,
+                            "votePct": 0.26
+                        }
+                    ]
+                },
+                "36081": {
+                    "ruid": "36081",
+                    "level": "subunit",
+                    "precinctsTotal": 1434,
+                    "precinctsReporting": 1434,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 412393,
+                            "votePct": 68.97
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 181225,
+                            "votePct": 30.31
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 2011,
+                            "votePct": 0.34
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 1777,
+                            "votePct": 0.3
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 522,
+                            "votePct": 0.09
+                        }
+                    ]
+                },
+                "36083": {
+                    "ruid": "36083",
+                    "level": "subunit",
+                    "precinctsTotal": 118,
+                    "precinctsReporting": 118,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 33371,
+                            "votePct": 51.12
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 30450,
+                            "votePct": 46.64
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 863,
+                            "votePct": 1.32
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 312,
+                            "votePct": 0.48
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 289,
+                            "votePct": 0.44
+                        }
+                    ]
+                },
+                "36085": {
+                    "ruid": "36085",
+                    "level": "subunit",
+                    "precinctsTotal": 327,
+                    "precinctsReporting": 303,
+                    "precinctsReportingPct": 92.66,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 110094,
+                            "votePct": 61.59
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 67223,
+                            "votePct": 37.61
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 719,
+                            "votePct": 0.4
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 504,
+                            "votePct": 0.28
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 211,
+                            "votePct": 0.12
+                        }
+                    ]
+                },
+                "36087": {
+                    "ruid": "36087",
+                    "level": "subunit",
+                    "precinctsTotal": 277,
+                    "precinctsReporting": 277,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 63830,
+                            "votePct": 55.15
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 50926,
+                            "votePct": 44.0
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 508,
+                            "votePct": 0.44
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 257,
+                            "votePct": 0.22
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 218,
+                            "votePct": 0.19
+                        }
+                    ]
+                },
+                "36089": {
+                    "ruid": "36089",
+                    "level": "subunit",
+                    "precinctsTotal": 81,
+                    "precinctsReporting": 81,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 21862,
+                            "votePct": 61.65
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 12976,
+                            "votePct": 36.59
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 352,
+                            "votePct": 0.99
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 138,
+                            "votePct": 0.39
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 131,
+                            "votePct": 0.37
+                        }
+                    ]
+                },
+                "36091": {
+                    "ruid": "36091",
+                    "level": "subunit",
+                    "precinctsTotal": 196,
+                    "precinctsReporting": 196,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 60092,
+                            "votePct": 52.31
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 52459,
+                            "votePct": 45.67
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 1472,
+                            "votePct": 1.28
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 464,
+                            "votePct": 0.4
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 390,
+                            "votePct": 0.34
+                        }
+                    ]
+                },
+                "36093": {
+                    "ruid": "36093",
+                    "level": "subunit",
+                    "precinctsTotal": 102,
+                    "precinctsReporting": 102,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 31685,
+                            "votePct": 52.29
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 27544,
+                            "votePct": 45.46
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 793,
+                            "votePct": 1.31
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 291,
+                            "votePct": 0.48
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 278,
+                            "votePct": 0.46
+                        }
+                    ]
+                },
+                "36095": {
+                    "ruid": "36095",
+                    "level": "subunit",
+                    "precinctsTotal": 22,
+                    "precinctsReporting": 22,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 9010,
+                            "votePct": 67.37
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 4006,
+                            "votePct": 29.95
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 238,
+                            "votePct": 1.78
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 65,
+                            "votePct": 0.49
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 55,
+                            "votePct": 0.41
+                        }
+                    ]
+                },
+                "36097": {
+                    "ruid": "36097",
+                    "level": "subunit",
+                    "precinctsTotal": 19,
+                    "precinctsReporting": 19,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 5181,
+                            "votePct": 62.27
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 2958,
+                            "votePct": 35.55
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 113,
+                            "votePct": 1.36
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 45,
+                            "votePct": 0.54
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 23,
+                            "votePct": 0.28
+                        }
+                    ]
+                },
+                "36099": {
+                    "ruid": "36099",
+                    "level": "subunit",
+                    "precinctsTotal": 27,
+                    "precinctsReporting": 27,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 7582,
+                            "votePct": 58.53
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 5076,
+                            "votePct": 39.18
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 158,
+                            "votePct": 1.22
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 81,
+                            "votePct": 0.63
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 57,
+                            "votePct": 0.44
+                        }
+                    ]
+                },
+                "36101": {
+                    "ruid": "36101",
+                    "level": "subunit",
+                    "precinctsTotal": 85,
+                    "precinctsReporting": 85,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 26781,
+                            "votePct": 69.03
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 11299,
+                            "votePct": 29.12
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 473,
+                            "votePct": 1.22
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 128,
+                            "votePct": 0.33
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 116,
+                            "votePct": 0.3
+                        }
+                    ]
+                },
+                "36103": {
+                    "ruid": "36103",
+                    "level": "subunit",
+                    "precinctsTotal": 1052,
+                    "precinctsReporting": 1052,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 333100,
+                            "votePct": 55.69
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 258007,
+                            "votePct": 43.14
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 3573,
+                            "votePct": 0.6
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 1959,
+                            "votePct": 0.33
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 1490,
+                            "votePct": 0.25
+                        }
+                    ]
+                },
+                "36105": {
+                    "ruid": "36105",
+                    "level": "subunit",
+                    "precinctsTotal": 68,
+                    "precinctsReporting": 68,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 15555,
+                            "votePct": 57.76
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 10995,
+                            "votePct": 40.83
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 207,
+                            "votePct": 0.77
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 88,
+                            "votePct": 0.33
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 86,
+                            "votePct": 0.32
+                        }
+                    ]
+                },
+                "36107": {
+                    "ruid": "36107",
+                    "level": "subunit",
+                    "precinctsTotal": 41,
+                    "precinctsReporting": 41,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 13990,
+                            "votePct": 64.92
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 7063,
+                            "votePct": 32.78
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 354,
+                            "votePct": 1.64
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 77,
+                            "votePct": 0.36
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 64,
+                            "votePct": 0.3
+                        }
+                    ]
+                },
+                "36109": {
+                    "ruid": "36109",
+                    "level": "subunit",
+                    "precinctsTotal": 63,
+                    "precinctsReporting": 61,
+                    "precinctsReportingPct": 96.83,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 21643,
+                            "votePct": 70.15
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 8522,
+                            "votePct": 27.62
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 344,
+                            "votePct": 1.12
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 249,
+                            "votePct": 0.81
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 93,
+                            "votePct": 0.3
+                        }
+                    ]
+                },
+                "36111": {
+                    "ruid": "36111",
+                    "level": "subunit",
+                    "precinctsTotal": 163,
+                    "precinctsReporting": 163,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 42606,
+                            "votePct": 54.86
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 33580,
+                            "votePct": 43.24
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 735,
+                            "votePct": 0.95
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 458,
+                            "votePct": 0.59
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 288,
+                            "votePct": 0.37
+                        }
+                    ]
+                },
+                "36113": {
+                    "ruid": "36113",
+                    "level": "subunit",
+                    "precinctsTotal": 19,
+                    "precinctsReporting": 19,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 15200,
+                            "votePct": 55.02
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 11811,
+                            "votePct": 42.75
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 338,
+                            "votePct": 1.22
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 152,
+                            "votePct": 0.55
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 124,
+                            "votePct": 0.45
+                        }
+                    ]
+                },
+                "36115": {
+                    "ruid": "36115",
+                    "level": "subunit",
+                    "precinctsTotal": 50,
+                    "precinctsReporting": 50,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 14577,
+                            "votePct": 61.75
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 8537,
+                            "votePct": 36.16
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 289,
+                            "votePct": 1.22
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 106,
+                            "votePct": 0.45
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 98,
+                            "votePct": 0.42
+                        }
+                    ]
+                },
+                "36117": {
+                    "ruid": "36117",
+                    "level": "subunit",
+                    "precinctsTotal": 67,
+                    "precinctsReporting": 67,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 23734,
+                            "votePct": 63.42
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 12799,
+                            "votePct": 34.2
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 573,
+                            "votePct": 1.53
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 170,
+                            "votePct": 0.45
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 149,
+                            "votePct": 0.4
+                        }
+                    ]
+                },
+                "36119": {
+                    "ruid": "36119",
+                    "level": "subunit",
+                    "precinctsTotal": 949,
+                    "precinctsReporting": 949,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 217858,
+                            "votePct": 63.35
+                        },
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 122371,
+                            "votePct": 35.58
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 1901,
+                            "votePct": 0.55
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 902,
+                            "votePct": 0.26
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 867,
+                            "votePct": 0.25
+                        }
+                    ]
+                },
+                "36121": {
+                    "ruid": "36121",
+                    "level": "subunit",
+                    "precinctsTotal": 40,
+                    "precinctsReporting": 40,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 12969,
+                            "votePct": 75.57
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 3840,
+                            "votePct": 22.38
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 228,
+                            "votePct": 1.33
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 74,
+                            "votePct": 0.43
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 51,
+                            "votePct": 0.3
+                        }
+                    ]
+                },
+                "36123": {
+                    "ruid": "36123",
+                    "level": "subunit",
+                    "precinctsTotal": 18,
+                    "precinctsReporting": 18,
+                    "precinctsReportingPct": 100.0,
+                    "results": [
+                        {
+                            "candidateID": "NY84296",
+                            "voteCount": 5552,
+                            "votePct": 62.97
+                        },
+                        {
+                            "candidateID": "NY83621",
+                            "voteCount": 3046,
+                            "votePct": 34.55
+                        },
+                        {
+                            "candidateID": "NY84346",
+                            "voteCount": 143,
+                            "votePct": 1.62
+                        },
+                        {
+                            "candidateID": "NY84347",
+                            "voteCount": 44,
+                            "votePct": 0.5
+                        },
+                        {
+                            "candidateID": "NY84345",
+                            "voteCount": 32,
+                            "votePct": 0.36
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
