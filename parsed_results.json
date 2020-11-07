@@ -1,0 +1,1343 @@
+{
+    "AL": {
+        "Donald Trump": {
+            "real_total_votes": 1430589,
+            "projected_total_votes": 1430589
+        },
+        "Joe Biden": {
+            "real_total_votes": 834533,
+            "projected_total_votes": 834533
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 24902,
+            "projected_total_votes": 24902
+        }
+    },
+    "AK": {
+        "Donald Trump": {
+            "real_total_votes": 118602,
+            "projected_total_votes": 203189
+        },
+        "Joe Biden": {
+            "real_total_votes": 63992,
+            "projected_total_votes": 109631
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 5198,
+            "projected_total_votes": 8905
+        },
+        "Jesse Ventura": {
+            "real_total_votes": 1524,
+            "projected_total_votes": 2610
+        },
+        "Brock Pierce": {
+            "real_total_votes": 774,
+            "projected_total_votes": 1326
+        },
+        "Don Blankenship": {
+            "real_total_votes": 673,
+            "projected_total_votes": 1152
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 207,
+            "projected_total_votes": 354
+        }
+    },
+    "AZ": {
+        "Joe Biden": {
+            "real_total_votes": 1565200,
+            "projected_total_votes": 1672730
+        },
+        "Donald Trump": {
+            "real_total_votes": 1525800,
+            "projected_total_votes": 1632306
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 44944,
+            "projected_total_votes": 48050
+        }
+    },
+    "AR": {
+        "Donald Trump": {
+            "real_total_votes": 755815,
+            "projected_total_votes": 755815
+        },
+        "Joe Biden": {
+            "real_total_votes": 417897,
+            "projected_total_votes": 417897
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 13039,
+            "projected_total_votes": 13039
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 1317,
+            "projected_total_votes": 1317
+        },
+        "Phil Collins": {
+            "real_total_votes": 2784,
+            "projected_total_votes": 2784
+        },
+        "Kanye West": {
+            "real_total_votes": 4071,
+            "projected_total_votes": 4071
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 2947,
+            "projected_total_votes": 2947
+        },
+        "C.L. Gammon": {
+            "real_total_votes": 1459,
+            "projected_total_votes": 1459
+        },
+        "Don Blankenship": {
+            "real_total_votes": 2097,
+            "projected_total_votes": 2097
+        },
+        "Brian Carroll": {
+            "real_total_votes": 1706,
+            "projected_total_votes": 1706
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 1306,
+            "projected_total_votes": 1306
+        },
+        "J.R. Myers": {
+            "real_total_votes": 1366,
+            "projected_total_votes": 1366
+        },
+        "Brock Pierce": {
+            "real_total_votes": 2132,
+            "projected_total_votes": 2132
+        }
+    },
+    "CA": {
+        "Joe Biden": {
+            "real_total_votes": 8281504,
+            "projected_total_votes": 10618790
+        },
+        "Donald Trump": {
+            "real_total_votes": 4204244,
+            "projected_total_votes": 5341079
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 117379,
+            "projected_total_votes": 148423
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 52606,
+            "projected_total_votes": 66887
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 32345,
+            "projected_total_votes": 41283
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 36835,
+            "projected_total_votes": 46783
+        }
+    },
+    "CO": {
+        "Joe Biden": {
+            "real_total_votes": 1738985,
+            "projected_total_votes": 1950661
+        },
+        "Donald Trump": {
+            "real_total_votes": 1329989,
+            "projected_total_votes": 1449586
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 49916,
+            "projected_total_votes": 54738
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 8406,
+            "projected_total_votes": 9283
+        },
+        "Kanye West": {
+            "real_total_votes": 7519,
+            "projected_total_votes": 8247
+        },
+        "Don Blankenship": {
+            "real_total_votes": 4914,
+            "projected_total_votes": 5335
+        },
+        "Bill Hammons": {
+            "real_total_votes": 2631,
+            "projected_total_votes": 2859
+        },
+        "Mark Charles": {
+            "real_total_votes": 1925,
+            "projected_total_votes": 2083
+        },
+        "Brian Carroll": {
+            "real_total_votes": 2399,
+            "projected_total_votes": 2615
+        },
+        "Kyle Kopitke": {
+            "real_total_votes": 731,
+            "projected_total_votes": 783
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 924,
+            "projected_total_votes": 1041
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 612,
+            "projected_total_votes": 658
+        },
+        "Joe McHugh": {
+            "real_total_votes": 592,
+            "projected_total_votes": 629
+        },
+        "Brock Pierce": {
+            "real_total_votes": 545,
+            "projected_total_votes": 588
+        },
+        "Phil Collins": {
+            "real_total_votes": 538,
+            "projected_total_votes": 577
+        },
+        "Princess Jacob-Fambro": {
+            "real_total_votes": 461,
+            "projected_total_votes": 503
+        },
+        "Blake Huber": {
+            "real_total_votes": 339,
+            "projected_total_votes": 368
+        },
+        "Dario Hunter": {
+            "real_total_votes": 356,
+            "projected_total_votes": 383
+        },
+        "Alyson Kennedy": {
+            "real_total_votes": 330,
+            "projected_total_votes": 356
+        },
+        "Jordan Scott": {
+            "real_total_votes": 165,
+            "projected_total_votes": 174
+        },
+        "Joseph Kishore": {
+            "real_total_votes": 184,
+            "projected_total_votes": 200
+        }
+    },
+    "CT": {
+        "Joe Biden": {
+            "real_total_votes": 1029132,
+            "projected_total_votes": 1030805
+        },
+        "Donald Trump": {
+            "real_total_votes": 714981,
+            "projected_total_votes": 716038
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 19739,
+            "projected_total_votes": 19765
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 7207,
+            "projected_total_votes": 7216
+        }
+    },
+    "DC": {
+        "Joe Biden": {
+            "real_total_votes": 268625,
+            "projected_total_votes": 322788
+        },
+        "Donald Trump": {
+            "real_total_votes": 15075,
+            "projected_total_votes": 18114
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 1532,
+            "projected_total_votes": 1840
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 1351,
+            "projected_total_votes": 1623
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 655,
+            "projected_total_votes": 787
+        },
+        "Brock Pierce": {
+            "real_total_votes": 538,
+            "projected_total_votes": 646
+        }
+    },
+    "DE": {
+        "Joe Biden": {
+            "real_total_votes": 295403,
+            "projected_total_votes": 295403
+        },
+        "Donald Trump": {
+            "real_total_votes": 199829,
+            "projected_total_votes": 199829
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 4977,
+            "projected_total_votes": 4977
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 2135,
+            "projected_total_votes": 2135
+        }
+    },
+    "FL": {
+        "Joe Biden": {
+            "real_total_votes": 5284453,
+            "projected_total_votes": 5284453
+        },
+        "Donald Trump": {
+            "real_total_votes": 5658847,
+            "projected_total_votes": 5658847
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 70046,
+            "projected_total_votes": 70046
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 14665,
+            "projected_total_votes": 14665
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 5688,
+            "projected_total_votes": 5688
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 5951,
+            "projected_total_votes": 5951
+        },
+        "Don Blankenship": {
+            "real_total_votes": 3890,
+            "projected_total_votes": 3890
+        }
+    },
+    "GA": {
+        "Donald Trump": {
+            "real_total_votes": 2451191,
+            "projected_total_votes": 2451191
+        },
+        "Joe Biden": {
+            "real_total_votes": 2455426,
+            "projected_total_votes": 2455426
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 61601,
+            "projected_total_votes": 61601
+        }
+    },
+    "HI": {
+        "Joe Biden": {
+            "real_total_votes": 365802,
+            "projected_total_votes": 365802
+        },
+        "Donald Trump": {
+            "real_total_votes": 196602,
+            "projected_total_votes": 196602
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 5525,
+            "projected_total_votes": 5525
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 3814,
+            "projected_total_votes": 3814
+        },
+        "Brock Pierce": {
+            "real_total_votes": 1181,
+            "projected_total_votes": 1181
+        },
+        "Don Blankenship": {
+            "real_total_votes": 930,
+            "projected_total_votes": 930
+        }
+    },
+    "ID": {
+        "Donald Trump": {
+            "real_total_votes": 554019,
+            "projected_total_votes": 554270
+        },
+        "Joe Biden": {
+            "real_total_votes": 286991,
+            "projected_total_votes": 287548
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 16401,
+            "projected_total_votes": 16411
+        },
+        "Kanye West": {
+            "real_total_votes": 3632,
+            "projected_total_votes": 3635
+        },
+        "Brock Pierce": {
+            "real_total_votes": 2808,
+            "projected_total_votes": 2810
+        },
+        "Don Blankenship": {
+            "real_total_votes": 1884,
+            "projected_total_votes": 1886
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 1491,
+            "projected_total_votes": 1493
+        }
+    },
+    "IL": {
+        "Donald Trump": {
+            "real_total_votes": 2298369,
+            "projected_total_votes": 2321127
+        },
+        "Joe Biden": {
+            "real_total_votes": 2999236,
+            "projected_total_votes": 3016161
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 59222,
+            "projected_total_votes": 59778
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 26247,
+            "projected_total_votes": 26435
+        },
+        "Brian Carroll": {
+            "real_total_votes": 8190,
+            "projected_total_votes": 8261
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 6981,
+            "projected_total_votes": 7008
+        }
+    },
+    "IN": {
+        "Donald Trump": {
+            "real_total_votes": 1725723,
+            "projected_total_votes": 1725723
+        },
+        "Joe Biden": {
+            "real_total_votes": 1239401,
+            "projected_total_votes": 1239401
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 58703,
+            "projected_total_votes": 58703
+        }
+    },
+    "IA": {
+        "Donald Trump": {
+            "real_total_votes": 896014,
+            "projected_total_votes": 896014
+        },
+        "Joe Biden": {
+            "real_total_votes": 757655,
+            "projected_total_votes": 757655
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 19555,
+            "projected_total_votes": 19555
+        },
+        "Kanye West": {
+            "real_total_votes": 3202,
+            "projected_total_votes": 3202
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 1081,
+            "projected_total_votes": 1081
+        },
+        "Don Blankenship": {
+            "real_total_votes": 1706,
+            "projected_total_votes": 1706
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 3072,
+            "projected_total_votes": 3072
+        },
+        "Brock Pierce": {
+            "real_total_votes": 549,
+            "projected_total_votes": 549
+        },
+        "Ricki King": {
+            "real_total_votes": 551,
+            "projected_total_votes": 551
+        }
+    },
+    "KS": {
+        "Donald Trump": {
+            "real_total_votes": 750916,
+            "projected_total_votes": 750916
+        },
+        "Joe Biden": {
+            "real_total_votes": 548104,
+            "projected_total_votes": 548104
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 29305,
+            "projected_total_votes": 29305
+        }
+    },
+    "KY": {
+        "Donald Trump": {
+            "real_total_votes": 1325336,
+            "projected_total_votes": 1325575
+        },
+        "Joe Biden": {
+            "real_total_votes": 771437,
+            "projected_total_votes": 771488
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 26172,
+            "projected_total_votes": 26174
+        },
+        "Kanye West": {
+            "real_total_votes": 6473,
+            "projected_total_votes": 6473
+        },
+        "Brock Pierce": {
+            "real_total_votes": 3591,
+            "projected_total_votes": 3592
+        }
+    },
+    "LA": {
+        "Donald Trump": {
+            "real_total_votes": 1255481,
+            "projected_total_votes": 1255481
+        },
+        "Joe Biden": {
+            "real_total_votes": 855597,
+            "projected_total_votes": 855597
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 21636,
+            "projected_total_votes": 21636
+        },
+        "Kanye West": {
+            "real_total_votes": 4894,
+            "projected_total_votes": 4894
+        },
+        "Brian Carroll": {
+            "real_total_votes": 2496,
+            "projected_total_votes": 2496
+        },
+        "Jade Simmons": {
+            "real_total_votes": 1625,
+            "projected_total_votes": 1625
+        },
+        "Don Blankenship": {
+            "real_total_votes": 860,
+            "projected_total_votes": 860
+        },
+        "President Boddie": {
+            "real_total_votes": 1125,
+            "projected_total_votes": 1125
+        },
+        "Bill Hammons": {
+            "real_total_votes": 662,
+            "projected_total_votes": 662
+        },
+        "Tom Hoefling": {
+            "real_total_votes": 668,
+            "projected_total_votes": 668
+        },
+        "Brock Pierce": {
+            "real_total_votes": 749,
+            "projected_total_votes": 749
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 986,
+            "projected_total_votes": 986
+        },
+        "Alyson Kennedy": {
+            "real_total_votes": 534,
+            "projected_total_votes": 534
+        }
+    },
+    "ME": {
+        "Donald Trump": {
+            "real_total_votes": 359502,
+            "projected_total_votes": 361278
+        },
+        "Joe Biden": {
+            "real_total_votes": 430023,
+            "projected_total_votes": 431394
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 14176,
+            "projected_total_votes": 14234
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 8234,
+            "projected_total_votes": 8261
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 1382,
+            "projected_total_votes": 1384
+        }
+    },
+    "MD": {
+        "Donald Trump": {
+            "real_total_votes": 824035,
+            "projected_total_votes": 1054554
+        },
+        "Joe Biden": {
+            "real_total_votes": 1475750,
+            "projected_total_votes": 1920820
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 24569,
+            "projected_total_votes": 31318
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 11813,
+            "projected_total_votes": 15164
+        },
+        "Jerome Segal": {
+            "real_total_votes": 4575,
+            "projected_total_votes": 5920
+        }
+    },
+    "MA": {
+        "Joe Biden": {
+            "real_total_votes": 2316338,
+            "projected_total_votes": 2317208
+        },
+        "Donald Trump": {
+            "real_total_votes": 1148777,
+            "projected_total_votes": 1149459
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 45782,
+            "projected_total_votes": 45802
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 18135,
+            "projected_total_votes": 18142
+        }
+    },
+    "MI": {
+        "Donald Trump": {
+            "real_total_votes": 2644525,
+            "projected_total_votes": 2644525
+        },
+        "Joe Biden": {
+            "real_total_votes": 2790648,
+            "projected_total_votes": 2790648
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 60287,
+            "projected_total_votes": 60287
+        },
+        "Don Blankenship": {
+            "real_total_votes": 7223,
+            "projected_total_votes": 7223
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 13680,
+            "projected_total_votes": 13680
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 2983,
+            "projected_total_votes": 2983
+        }
+    },
+    "MN": {
+        "Donald Trump": {
+            "real_total_votes": 1484633,
+            "projected_total_votes": 1484633
+        },
+        "Joe Biden": {
+            "real_total_votes": 1717755,
+            "projected_total_votes": 1717755
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 34993,
+            "projected_total_votes": 34993
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 10050,
+            "projected_total_votes": 10050
+        },
+        "Brock Pierce": {
+            "real_total_votes": 5689,
+            "projected_total_votes": 5689
+        },
+        "Kanye West": {
+            "real_total_votes": 7960,
+            "projected_total_votes": 7960
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 5621,
+            "projected_total_votes": 5621
+        },
+        "Alyson Kennedy": {
+            "real_total_votes": 692,
+            "projected_total_votes": 692
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 1253,
+            "projected_total_votes": 1253
+        }
+    },
+    "MS": {
+        "Joe Biden": {
+            "real_total_votes": 440284,
+            "projected_total_votes": 440839
+        },
+        "Donald Trump": {
+            "real_total_votes": 677218,
+            "projected_total_votes": 677417
+        },
+        "Kanye West": {
+            "real_total_votes": 3364,
+            "projected_total_votes": 3367
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 7309,
+            "projected_total_votes": 7312
+        },
+        "Phil Collins": {
+            "real_total_votes": 1174,
+            "projected_total_votes": 1174
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 1347,
+            "projected_total_votes": 1347
+        },
+        "Brian Carroll": {
+            "real_total_votes": 1064,
+            "projected_total_votes": 1065
+        },
+        "Don Blankenship": {
+            "real_total_votes": 1169,
+            "projected_total_votes": 1169
+        },
+        "Brock Pierce": {
+            "real_total_votes": 610,
+            "projected_total_votes": 610
+        }
+    },
+    "MO": {
+        "Donald Trump": {
+            "real_total_votes": 1711848,
+            "projected_total_votes": 1711848
+        },
+        "Joe Biden": {
+            "real_total_votes": 1242851,
+            "projected_total_votes": 1242851
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 40932,
+            "projected_total_votes": 40932
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 8219,
+            "projected_total_votes": 8219
+        },
+        "Don Blankenship": {
+            "real_total_votes": 3894,
+            "projected_total_votes": 3894
+        }
+    },
+    "MT": {
+        "Donald Trump": {
+            "real_total_votes": 341767,
+            "projected_total_votes": 341767
+        },
+        "Joe Biden": {
+            "real_total_votes": 243719,
+            "projected_total_votes": 243719
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 15194,
+            "projected_total_votes": 15194
+        }
+    },
+    "NE": {
+        "Donald Trump": {
+            "real_total_votes": 544120,
+            "projected_total_votes": 550620
+        },
+        "Joe Biden": {
+            "real_total_votes": 362026,
+            "projected_total_votes": 369243
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 19445,
+            "projected_total_votes": 19737
+        }
+    },
+    "NV": {
+        "Donald Trump": {
+            "real_total_votes": 606967,
+            "projected_total_votes": 700493
+        },
+        "Joe Biden": {
+            "real_total_votes": 627104,
+            "projected_total_votes": 729556
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 12296,
+            "projected_total_votes": 14015
+        },
+        "None of these candidates": {
+            "real_total_votes": 11747,
+            "projected_total_votes": 13465
+        },
+        "Don Blankenship": {
+            "real_total_votes": 2686,
+            "projected_total_votes": 3071
+        }
+    },
+    "NH": {
+        "Joe Biden": {
+            "real_total_votes": 423291,
+            "projected_total_votes": 423291
+        },
+        "Donald Trump": {
+            "real_total_votes": 365373,
+            "projected_total_votes": 365373
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 13066,
+            "projected_total_votes": 13066
+        }
+    },
+    "NJ": {
+        "Joe Biden": {
+            "real_total_votes": 1987298,
+            "projected_total_votes": 2717893
+        },
+        "Donald Trump": {
+            "real_total_votes": 1337843,
+            "projected_total_votes": 1813070
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 20263,
+            "projected_total_votes": 27313
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 9313,
+            "projected_total_votes": 12688
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 1914,
+            "projected_total_votes": 2559
+        },
+        "Bill Hammons": {
+            "real_total_votes": 2256,
+            "projected_total_votes": 2981
+        },
+        "Don Blankenship": {
+            "real_total_votes": 2001,
+            "projected_total_votes": 2709
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 1729,
+            "projected_total_votes": 2331
+        }
+    },
+    "NM": {
+        "Joe Biden": {
+            "real_total_votes": 496826,
+            "projected_total_votes": 496826
+        },
+        "Donald Trump": {
+            "real_total_votes": 400095,
+            "projected_total_votes": 400095
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 12446,
+            "projected_total_votes": 12446
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 4373,
+            "projected_total_votes": 4373
+        },
+        "Sheila Tittle": {
+            "real_total_votes": 1790,
+            "projected_total_votes": 1790
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 1625,
+            "projected_total_votes": 1625
+        }
+    },
+    "NY": {
+        "Joe Biden": {
+            "real_total_votes": 3694996,
+            "projected_total_votes": 3736489
+        },
+        "Donald Trump": {
+            "real_total_votes": 2849085,
+            "projected_total_votes": 2886177
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 47802,
+            "projected_total_votes": 48391
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 23267,
+            "projected_total_votes": 23569
+        },
+        "Brock Pierce": {
+            "real_total_votes": 17646,
+            "projected_total_votes": 17822
+        }
+    },
+    "NC": {
+        "Donald Trump": {
+            "real_total_votes": 2732302,
+            "projected_total_votes": 2741014
+        },
+        "Joe Biden": {
+            "real_total_votes": 2655629,
+            "projected_total_votes": 2670743
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 47222,
+            "projected_total_votes": 47474
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 11826,
+            "projected_total_votes": 11888
+        },
+        "Don Blankenship": {
+            "real_total_votes": 7384,
+            "projected_total_votes": 7416
+        }
+    },
+    "ND": {
+        "Donald Trump": {
+            "real_total_votes": 234845,
+            "projected_total_votes": 260211
+        },
+        "Joe Biden": {
+            "real_total_votes": 114480,
+            "projected_total_votes": 124424
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 9347,
+            "projected_total_votes": 10163
+        }
+    },
+    "OH": {
+        "Donald Trump": {
+            "real_total_votes": 3074418,
+            "projected_total_votes": 3074418
+        },
+        "Joe Biden": {
+            "real_total_votes": 2603731,
+            "projected_total_votes": 2603731
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 65069,
+            "projected_total_votes": 65069
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 18032,
+            "projected_total_votes": 18032
+        }
+    },
+    "OK": {
+        "Donald Trump": {
+            "real_total_votes": 1018870,
+            "projected_total_votes": 1018870
+        },
+        "Joe Biden": {
+            "real_total_votes": 503289,
+            "projected_total_votes": 503289
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 24686,
+            "projected_total_votes": 24686
+        },
+        "Kanye West": {
+            "real_total_votes": 5590,
+            "projected_total_votes": 5590
+        },
+        "Jade Simmons": {
+            "real_total_votes": 3650,
+            "projected_total_votes": 3650
+        },
+        "Brock Pierce": {
+            "real_total_votes": 2542,
+            "projected_total_votes": 2542
+        }
+    },
+    "OR": {
+        "Donald Trump": {
+            "real_total_votes": 928706,
+            "projected_total_votes": 962371
+        },
+        "Joe Biden": {
+            "real_total_votes": 1304536,
+            "projected_total_votes": 1341032
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 39367,
+            "projected_total_votes": 40626
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 11251,
+            "projected_total_votes": 11550
+        },
+        "Dario Hunter": {
+            "real_total_votes": 4766,
+            "projected_total_votes": 4895
+        }
+    },
+    "PA": {
+        "Donald Trump": {
+            "real_total_votes": 3301204,
+            "projected_total_votes": 3384870
+        },
+        "Joe Biden": {
+            "real_total_votes": 3315745,
+            "projected_total_votes": 3424533
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 76812,
+            "projected_total_votes": 78878
+        }
+    },
+    "RI": {
+        "Joe Biden": {
+            "real_total_votes": 300325,
+            "projected_total_votes": 304597
+        },
+        "Donald Trump": {
+            "real_total_votes": 197421,
+            "projected_total_votes": 200247
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 4976,
+            "projected_total_votes": 5040
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 906,
+            "projected_total_votes": 918
+        },
+        "Brian Carroll": {
+            "real_total_votes": 746,
+            "projected_total_votes": 756
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 827,
+            "projected_total_votes": 840
+        }
+    },
+    "SC": {
+        "Donald Trump": {
+            "real_total_votes": 1377118,
+            "projected_total_votes": 1377118
+        },
+        "Joe Biden": {
+            "real_total_votes": 1087223,
+            "projected_total_votes": 1087223
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 28510,
+            "projected_total_votes": 28510
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 6871,
+            "projected_total_votes": 6871
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 1848,
+            "projected_total_votes": 1848
+        }
+    },
+    "SD": {
+        "Donald Trump": {
+            "real_total_votes": 261035,
+            "projected_total_votes": 261035
+        },
+        "Joe Biden": {
+            "real_total_votes": 150467,
+            "projected_total_votes": 150467
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 11095,
+            "projected_total_votes": 11095
+        }
+    },
+    "TN": {
+        "Donald Trump": {
+            "real_total_votes": 1849211,
+            "projected_total_votes": 1849211
+        },
+        "Joe Biden": {
+            "real_total_votes": 1139666,
+            "projected_total_votes": 1139666
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 29816,
+            "projected_total_votes": 29816
+        },
+        "Kanye West": {
+            "real_total_votes": 10216,
+            "projected_total_votes": 10216
+        },
+        "Don Blankenship": {
+            "real_total_votes": 5340,
+            "projected_total_votes": 5340
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 4526,
+            "projected_total_votes": 4526
+        },
+        "Alyson Kennedy": {
+            "real_total_votes": 2582,
+            "projected_total_votes": 2582
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 2292,
+            "projected_total_votes": 2292
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 1833,
+            "projected_total_votes": 1833
+        }
+    },
+    "TX": {
+        "Donald Trump": {
+            "real_total_votes": 5860560,
+            "projected_total_votes": 5863321
+        },
+        "Joe Biden": {
+            "real_total_votes": 5211719,
+            "projected_total_votes": 5214482
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 125156,
+            "projected_total_votes": 125226
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 33110,
+            "projected_total_votes": 33127
+        }
+    },
+    "UT": {
+        "Donald Trump": {
+            "real_total_votes": 701078,
+            "projected_total_votes": 819174
+        },
+        "Joe Biden": {
+            "real_total_votes": 444531,
+            "projected_total_votes": 579590
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 27623,
+            "projected_total_votes": 32336
+        },
+        "Kanye West": {
+            "real_total_votes": 5142,
+            "projected_total_votes": 6184
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 3451,
+            "projected_total_votes": 4285
+        },
+        "Don Blankenship": {
+            "real_total_votes": 4313,
+            "projected_total_votes": 5036
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 782,
+            "projected_total_votes": 977
+        },
+        "Joe McHugh": {
+            "real_total_votes": 1624,
+            "projected_total_votes": 1942
+        },
+        "Brock Pierce": {
+            "real_total_votes": 1818,
+            "projected_total_votes": 2187
+        }
+    },
+    "VT": {
+        "Joe Biden": {
+            "real_total_votes": 242805,
+            "projected_total_votes": 242805
+        },
+        "Donald Trump": {
+            "real_total_votes": 112688,
+            "projected_total_votes": 112688
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 3573,
+            "projected_total_votes": 3573
+        },
+        "H. Brooke Paige": {
+            "real_total_votes": 1157,
+            "projected_total_votes": 1157
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 1303,
+            "projected_total_votes": 1303
+        },
+        "Kanye West": {
+            "real_total_votes": 1266,
+            "projected_total_votes": 1266
+        },
+        "Christopher LaFontaine": {
+            "real_total_votes": 850,
+            "projected_total_votes": 850
+        },
+        "Richard Duncan": {
+            "real_total_votes": 213,
+            "projected_total_votes": 213
+        },
+        "Don Blankenship": {
+            "real_total_votes": 208,
+            "projected_total_votes": 208
+        },
+        "Brian Carroll": {
+            "real_total_votes": 207,
+            "projected_total_votes": 207
+        },
+        "Alyson Kennedy": {
+            "real_total_votes": 230,
+            "projected_total_votes": 230
+        },
+        "Phil Collins": {
+            "real_total_votes": 138,
+            "projected_total_votes": 138
+        },
+        "Keith McCormic": {
+            "real_total_votes": 123,
+            "projected_total_votes": 123
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 171,
+            "projected_total_votes": 171
+        },
+        "Blake Huber": {
+            "real_total_votes": 62,
+            "projected_total_votes": 62
+        },
+        "Gary Swing": {
+            "real_total_votes": 142,
+            "projected_total_votes": 142
+        },
+        "Kyle Kopitke": {
+            "real_total_votes": 57,
+            "projected_total_votes": 57
+        },
+        "Brock Pierce": {
+            "real_total_votes": 106,
+            "projected_total_votes": 106
+        },
+        "Jerome Segal": {
+            "real_total_votes": 65,
+            "projected_total_votes": 65
+        },
+        "Roque De La Fuente": {
+            "real_total_votes": 48,
+            "projected_total_votes": 48
+        },
+        "Zachary Scalf": {
+            "real_total_votes": 31,
+            "projected_total_votes": 31
+        }
+    },
+    "VA": {
+        "Donald Trump": {
+            "real_total_votes": 1930944,
+            "projected_total_votes": 1939842
+        },
+        "Joe Biden": {
+            "real_total_votes": 2339558,
+            "projected_total_votes": 2349401
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 63482,
+            "projected_total_votes": 63830
+        }
+    },
+    "WA": {
+        "Donald Trump": {
+            "real_total_votes": 1433589,
+            "projected_total_votes": 1679873
+        },
+        "Joe Biden": {
+            "real_total_votes": 2233590,
+            "projected_total_votes": 2562331
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 70277,
+            "projected_total_votes": 80242
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 16068,
+            "projected_total_votes": 18327
+        },
+        "Gloria La Riva": {
+            "real_total_votes": 4135,
+            "projected_total_votes": 4719
+        },
+        "Alyson Kennedy": {
+            "real_total_votes": 2180,
+            "projected_total_votes": 2508
+        }
+    },
+    "WV": {
+        "Donald Trump": {
+            "real_total_votes": 539610,
+            "projected_total_votes": 539610
+        },
+        "Joe Biden": {
+            "real_total_votes": 232502,
+            "projected_total_votes": 232502
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 10462,
+            "projected_total_votes": 10462
+        },
+        "Howie Hawkins": {
+            "real_total_votes": 2547,
+            "projected_total_votes": 2547
+        }
+    },
+    "WI": {
+        "Donald Trump": {
+            "real_total_votes": 1610030,
+            "projected_total_votes": 1610030
+        },
+        "Joe Biden": {
+            "real_total_votes": 1630570,
+            "projected_total_votes": 1630570
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 38415,
+            "projected_total_votes": 38415
+        },
+        "Don Blankenship": {
+            "real_total_votes": 5206,
+            "projected_total_votes": 5206
+        },
+        "Brian Carroll": {
+            "real_total_votes": 5253,
+            "projected_total_votes": 5253
+        }
+    },
+    "WY": {
+        "Joe Biden": {
+            "real_total_votes": 73445,
+            "projected_total_votes": 73445
+        },
+        "Donald Trump": {
+            "real_total_votes": 193454,
+            "projected_total_votes": 193454
+        },
+        "Jo Jorgensen": {
+            "real_total_votes": 5765,
+            "projected_total_votes": 5765
+        },
+        "Brock Pierce": {
+            "real_total_votes": 2208,
+            "projected_total_votes": 2208
+        }
+    }
