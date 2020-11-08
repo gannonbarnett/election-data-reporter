@@ -2,6 +2,73 @@ import requests
 import json 
 import pickle 
 import datetime 
+import os
+import sched
+import time
+from twilio.rest import Client
+
+CONFIG_FILE_PATH = "config.json"
+config = json.load(open(CONFIG_FILE_PATH))
+ADMIN_PHONES_KEY = "ADMIN_PHONES"
+TWILIO_ACCOUNT_SID_KEY = "TWILIO_ACCOUNT_SID"
+TWILIO_AUTH_TOKEN_KEY = "TWILIO_AUTH_TOKEN"
+
+"""
+
+Handling records and alert system.
+
+The record file holds the data for which the last alert 
+was sent
+
+"""
+account_sid = config[TWILIO_ACCOUNT_SID_KEY]
+auth_token = config[TWILIO_AUTH_TOKEN_KEY]
+client = Client(account_sid, auth_token)
+
+RECORDS_FILE_PATH = "records.json"
+
+# send a message to each of the phone numbers specified
+def send_message(phones, message):
+    for p in phones: 
+        message = client.messages.create(
+                            body=message,
+                            from_='+18575765754',
+                            to=p)
+
+# update record and send alert as needed
+def add_record_and_alert(new_record):
+    alert_message = "PREDICTIT ALERT\n"
+    should_alert = False
+
+    last_record = json.load(open(RECORDS_FILE_PATH))
+
+    # check MOV 
+    if last_record["mov"] != new_record["mov"]: 
+        should_alert = True
+        alert_message += "MOV changed from " + str(last_record["mov"]) + " to " + str(new_record["mov"]) + ".\n"
+
+    # check turnout 
+    last_turnout_m = last_record["votes"]["proj"] / 1000000
+    new_turnout_m = new_record["votes"]["proj"] / 1000000
+    if abs(last_turnout_m - new_turnout_m) > 1: 
+        should_alert = True 
+        alert_message += "Projected turnout changed from " + str(int(last_turnout_m * 100)/ 100.0) + "m to "
+        alert_message += str(int(new_turnout_m * 100)/ 100.0) + "m.\n"
+
+    # send alert if should send
+    if should_alert: 
+        print("Sending alert...")
+        send_message(config[ADMIN_PHONES_KEY], alert_message)
+        current_records = json.load(open(RECORDS_FILE_PATH))
+        current_records = new_record
+        json.dump(current_records, open(RECORDS_FILE_PATH, "w"))
+
+
+"""
+
+Processing data pipeline below
+
+"""
 
 METADATA_ENDPOINT = "https://interactives.ap.org/elections/live-data/production/2020-11-03/president/metadata.json"
 STATEPRES_ENDPOINT_WO_JSON = "https://interactives.ap.org/elections/live-data/production/2020-11-03/president/"
@@ -25,7 +92,9 @@ REAL_PCT_KEY = "real_percent"
 CANDIDATES_KEY = "candidates"
 STATES_KEY = "states"
 
-## DOWNLOADING DATA 
+### Downloading data pipeline below 
+
+# download metadata
 def download_metadata():
     f = open(METADATA_PKL_FILE, "wb")
 
@@ -33,43 +102,41 @@ def download_metadata():
     python_result = json.loads(json_result)
     pickle.dump(python_result, f)
     f.close()
-    print("Download metadata completed")
     return python_result
 
+# download a single state's data
 def download_state_election_data(stateInitials):
     endpoint = STATEPRES_ENDPOINT_WO_JSON + stateInitials + ".json"
     json_result = requests.get(endpoint).text
     python_result = json.loads(json_result)
     return python_result
     
+# download all state election data
 def download_all_state_election_data(metadata):
     result = {STATES_KEY: {}}
-    print("Collecting data from 50 states ...")
     for i, state in enumerate(STATE_INITIALS):
         downloaded_state_data = download_state_election_data(state)
         result[STATES_KEY][state] = parse_state_election_data(metadata, downloaded_state_data)
 
-    json.dump(result, open("parsed_results.json", "w"))
+    # json.dump(result, open("parsed_results.json", "w"))
 
     result["timestamp"] = datetime.datetime.utcnow()
     f = open(ALLSTATEELECTION_PKL_FILE, "wb")
     pickle.dump(result, f)
     f.close()
-    print("Download state election data completed")
 
+# download metadata and all states data
 def download_all_data():
     metadata = download_metadata()
     download_all_state_election_data(metadata)
     
-## GETTING CACHED DATA 
+#### Metadata and election data retrieval from pickled files 
+
 def get_metadata():
     f = open(METADATA_PKL_FILE, "rb")
     result = pickle.load(f)
     f.close()
     return result
-
-def get_candidate_name(metadata, id):
-    return metadata["candidates"][id]["fullName"]
 
 def get_all_state_election_data():
     f = open(ALLSTATEELECTION_PKL_FILE, "rb")
@@ -77,7 +144,12 @@ def get_all_state_election_data():
     f.close()
     return result
 
-## PROCCESSING DOWNLOADED DATA 
+def get_candidate_name(metadata, id):
+    return metadata["candidates"][id]["fullName"]
+
+### Generating reports 
+
+# aggregate state election statistics
 def parse_state_election_data(metadata, data):
     parsed_data = {CANDIDATES_KEY:{}}
 
@@ -108,12 +180,14 @@ def parse_state_election_data(metadata, data):
 
     return parsed_data
 
-## ANALYZING DATA
-def generate_report(): 
-    print("-----------report start")
+# generate a new report and record 
+def generate_report(should_print=False):
+    new_record = {} 
+
     metadata = get_metadata()
     all_states_data = get_all_state_election_data()
-    print("Data refreshed at " + str(all_states_data["timestamp"]))
+    
+    new_record["timestamp"] = str(all_states_data["timestamp"])
 
     net_election_results = {}
     net_votes_real = 0
@@ -131,24 +205,52 @@ def generate_report():
             net_election_results[candidate_name][REAL_TOTAL_VOTES_KEY] += candidate_data[REAL_TOTAL_VOTES_KEY]
             net_election_results[candidate_name][PROJ_TOTAL_VOTES_KEY] += candidate_data[PROJ_TOTAL_VOTES_KEY]
 
-    print()
-    print("Net votes\treal: " + str(net_votes_real) + "\tproj:" + str(net_votes_proj) + "\tdelta:" + str(net_votes_delta))
-    print()
-    
+    new_record["votes"] = {"real" : net_votes_real, "proj": net_votes_proj, "delta": net_votes_delta}
+
+
+    if (should_print):
+        print("-----------report start")
+        print("Data refreshed at " + str(all_states_data["timestamp"]))
+        print()
+        print("Net votes\treal: " + str(net_votes_real) + "\tproj:" + str(net_votes_proj) + "\tdelta:" + str(net_votes_delta))
+        print()
+
     for candidate_name in ["Joe Biden", "Donald Trump"]:
         data = net_election_results[candidate_name]
         
         data[REAL_PCT_KEY] = int((data[REAL_TOTAL_VOTES_KEY] / net_votes_real) * 10000) / 100.0
         data[PROJ_PCT_KEY] = int((data[PROJ_TOTAL_VOTES_KEY] / net_votes_proj) * 10000) / 100.0
-        print(candidate_name + "\treal:" + str(data[REAL_TOTAL_VOTES_KEY]) + ", " + str(data[REAL_PCT_KEY]) + "%\tproj:" + str(data[PROJ_TOTAL_VOTES_KEY]) + ", " + str(data[PROJ_PCT_KEY]) + "%")
+        if (should_print): 
+            print(candidate_name + "\treal:" + str(data[REAL_TOTAL_VOTES_KEY]) + ", " + str(data[REAL_PCT_KEY]) + "%\tproj:" + str(data[PROJ_TOTAL_VOTES_KEY]) + ", " + str(data[PROJ_PCT_KEY]) + "%")
 
     biden = net_election_results["Joe Biden"]
     trump = net_election_results["Donald Trump"]
 
-    print()
+    
     mov = int((biden[PROJ_PCT_KEY] - trump[PROJ_PCT_KEY]) * 10) / 10
-    print("Estimated MOV: " + str(mov))
-    print("-----------report end")
+    new_record["mov"] = mov
+    if (should_print):
+        print()
+        print("Estimated MOV: " + str(mov))
+        print("-----------report end")
 
-download_all_data()
-generate_report()
+    add_record_and_alert(new_record)
+
+
+"""
+
+Cron job scheduler
+
+"""
+s = sched.scheduler(time.time, time.sleep)
+
+def check_for_alerts(sc): 
+    print("checking for alerts...")
+    download_all_data()
+    generate_report() 
+    print("check complete")
+
+    s.enter(config["CRON_FREQ"], 1, check_for_alerts, (sc,))
+    
+s.enter(0, 1, check_for_alerts, (s,))
+s.run()
